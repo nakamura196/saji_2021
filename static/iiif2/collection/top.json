@@ -1,0 +1,4226 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://static.toyobunko-lab.jp/u-renja/iiif2/collection/top.json",
+    "@type": "sc:Collection",
+    "attribution": "東洋文庫 / Toyo Bunko",
+    "label": "酉蓮社本",
+    "manifests": [
+        {
+            "@id": "https://static.toyobunko-lab.jp/u-renja/iiif2/cd04078bf078dd93d935be60160a36e0/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "佛説四十二章經1卷",
+            "metadata": [
+                {
+                    "label": "Title",
+                    "value": "佛説四十二章經1卷"
+                },
+                {
+                    "label": "Description",
+                    "value": [
+                        "通番: 679",
+                        "from image no.: 1",
+                        "to image no.: 22"
+                    ]
+                },
+                {
+                    "label": "Identifier",
+                    "value": "cd04078bf078dd93d935be60160a36e0"
+                },
+                {
+                    "label": "identifier",
+                    "value": "u-renja0679_0001_0022"
+                }
+            ],
+            "thumbnail": {
+                "@id": "https://img.toyobunko-lab.jp/iiif/kaken/18K00073/u-renja0679/image001.tif/full/200,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": null,
+                "width": null
+            }
+        },
+        {
+            "@id": "https://static.toyobunko-lab.jp/u-renja/iiif2/50766096cd0b93e1f94dfe811e32ab68/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "聖觀自在菩薩一百八名經1卷",
+            "metadata": [
+                {
+                    "label": "Title",
+                    "value": "聖觀自在菩薩一百八名經1卷"
+                },
+                {
+                    "label": "Description",
+                    "value": [
+                        "通番: 817",
+                        "from image no.: 1",
+                        "to image no.: 9"
+                    ]
+                },
+                {
+                    "label": "Identifier",
+                    "value": "50766096cd0b93e1f94dfe811e32ab68"
+                },
+                {
+                    "label": "identifier",
+                    "value": "u-renja0817_0001_0009"
+                }
+            ],
+            "thumbnail": {
+                "@id": "https://img.toyobunko-lab.jp/iiif/kaken/18K00073/u-renja0817/image001.tif/full/200,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": null,
+                "width": null
+            }
+        },
+        {
+            "@id": "https://static.toyobunko-lab.jp/u-renja/iiif2/4c5435310d4d5760d969904cf94e0d9b/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "出家授近圓羯磨儀範1卷",
+            "metadata": [
+                {
+                    "label": "Title",
+                    "value": "出家授近圓羯磨儀範1卷"
+                },
+                {
+                    "label": "Description",
+                    "value": [
+                        "通番: 1143",
+                        "from image no.: 1",
+                        "to image no.: 28"
+                    ]
+                },
+                {
+                    "label": "Identifier",
+                    "value": "4c5435310d4d5760d969904cf94e0d9b"
+                },
+                {
+                    "label": "identifier",
+                    "value": "u-renja1143a_0001_0028"
+                }
+            ],
+            "thumbnail": {
+                "@id": "https://img.toyobunko-lab.jp/iiif/kaken/18K00073/u-renja1143a/image001.tif/full/200,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": null,
+                "width": null
+            }
+        },
+        {
+            "@id": "https://static.toyobunko-lab.jp/u-renja/iiif2/0db3f6fe6edaca236f91de30198c8b8e/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "根本説一切有部苾芻習學畧法1卷",
+            "metadata": [
+                {
+                    "label": "Title",
+                    "value": "根本説一切有部苾芻習學畧法1卷"
+                },
+                {
+                    "label": "Description",
+                    "value": [
+                        "通番: 1143",
+                        "from image no.: 1",
+                        "to image no.: 14"
+                    ]
+                },
+                {
+                    "label": "Identifier",
+                    "value": "0db3f6fe6edaca236f91de30198c8b8e"
+                },
+                {
+                    "label": "identifier",
+                    "value": "u-renja1143b_0001_0014"
+                }
+            ],
+            "thumbnail": {
+                "@id": "https://img.toyobunko-lab.jp/iiif/kaken/18K00073/u-renja1143b/image001.tif/full/200,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": null,
+                "width": null
+            }
+        },
+        {
+            "@id": "https://static.toyobunko-lab.jp/u-renja/iiif2/bb175048adea7066e3a4d0efaacfb022/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "金剛頂一切如來眞實攝大乘現證大教王經2卷",
+            "metadata": [
+                {
+                    "label": "Title",
+                    "value": "金剛頂一切如來眞實攝大乘現證大教王經2卷"
+                },
+                {
+                    "label": "Description",
+                    "value": [
+                        "通番: 1361",
+                        "from image no.: 1",
+                        "to image no.: 47"
+                    ]
+                },
+                {
+                    "label": "Identifier",
+                    "value": "bb175048adea7066e3a4d0efaacfb022"
+                },
+                {
+                    "label": "identifier",
+                    "value": "u-renja1361_0001_0047"
+                }
+            ],
+            "thumbnail": {
+                "@id": "https://img.toyobunko-lab.jp/iiif/kaken/18K00073/u-renja1361/image001.tif/full/200,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": null,
+                "width": null
+            }
+        },
+        {
+            "@id": "https://static.toyobunko-lab.jp/u-renja/iiif2/dc75778cd674b666bd6d94df921123ca/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "大方廣佛華嚴經入法界品四十二字觀1卷",
+            "metadata": [
+                {
+                    "label": "Title",
+                    "value": "大方廣佛華嚴經入法界品四十二字觀1卷"
+                },
+                {
+                    "label": "Description",
+                    "value": [
+                        "通番: 1456",
+                        "from image no.: 1",
+                        "to image no.: 8"
+                    ]
+                },
+                {
+                    "label": "Identifier",
+                    "value": "dc75778cd674b666bd6d94df921123ca"
+                },
+                {
+                    "label": "identifier",
+                    "value": "u-renja1456_0001_0008"
+                }
+            ],
+            "thumbnail": {
+                "@id": "https://img.toyobunko-lab.jp/iiif/kaken/18K00073/u-renja1456/image001.tif/full/200,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": null,
+                "width": null
+            }
+        },
+        {
+            "@id": "https://static.toyobunko-lab.jp/u-renja/iiif2/eb86f883bd04ba0f797a36c3585c662e/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "大方廣佛華嚴經入法界品頓證毗盧遮那法身字輪瑜伽儀軌1卷",
+            "metadata": [
+                {
+                    "label": "Title",
+                    "value": "大方廣佛華嚴經入法界品頓證毗盧遮那法身字輪瑜伽儀軌1卷"
+                },
+                {
+                    "label": "Description",
+                    "value": [
+                        "通番: 1456",
+                        "from image no.: 8",
+                        "to image no.: 11"
+                    ]
+                },
+                {
+                    "label": "Identifier",
+                    "value": "eb86f883bd04ba0f797a36c3585c662e"
+                },
+                {
+                    "label": "identifier",
+                    "value": "u-renja1456_0008_0011"
+                }
+            ],
+            "thumbnail": {
+                "@id": "https://img.toyobunko-lab.jp/iiif/kaken/18K00073/u-renja1456/image008.tif/full/200,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": null,
+                "width": null
+            }
+        },
+        {
+            "@id": "https://static.toyobunko-lab.jp/u-renja/iiif2/bd266ff88209d6e2c5f7492109723de9/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "顯密圓通成佛心要集2卷坿供物利生儀1卷",
+            "metadata": [
+                {
+                    "label": "Title",
+                    "value": "顯密圓通成佛心要集2卷坿供物利生儀1卷"
+                },
+                {
+                    "label": "Description",
+                    "value": [
+                        "通番: 1483",
+                        "from image no.: 1",
+                        "to image no.: 70"
+                    ]
+                },
+                {
+                    "label": "Identifier",
+                    "value": "bd266ff88209d6e2c5f7492109723de9"
+                },
+                {
+                    "label": "identifier",
+                    "value": "u-renja1483_0001_0070"
+                }
+            ],
+            "thumbnail": {
+                "@id": "https://img.toyobunko-lab.jp/iiif/kaken/18K00073/u-renja1483/image001.tif/full/200,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": null,
+                "width": null
+            }
+        },
+        {
+            "@id": "https://static.toyobunko-lab.jp/u-renja/iiif2/4187ca1ba24f5535f48308851825a138/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "密呪圓因往生集1卷",
+            "metadata": [
+                {
+                    "label": "Title",
+                    "value": "密呪圓因往生集1卷"
+                },
+                {
+                    "label": "Description",
+                    "value": [
+                        "通番: 1484",
+                        "from image no.: 1",
+                        "to image no.: 28"
+                    ]
+                },
+                {
+                    "label": "Identifier",
+                    "value": "4187ca1ba24f5535f48308851825a138"
+                },
+                {
+                    "label": "identifier",
+                    "value": "u-renja1484_0001_0028"
+                }
+            ],
+            "thumbnail": {
+                "@id": "https://img.toyobunko-lab.jp/iiif/kaken/18K00073/u-renja1484/image001.tif/full/200,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": null,
+                "width": null
+            }
+        },
+        {
+            "@id": "https://static.toyobunko-lab.jp/u-renja/iiif2/2e0eda2795ec1bf8e8b3d789e3768e6d/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "説罪要行法1卷",
+            "metadata": [
+                {
+                    "label": "Title",
+                    "value": "説罪要行法1卷"
+                },
+                {
+                    "label": "Description",
+                    "value": [
+                        "通番: 1512",
+                        "from image no.: 1",
+                        "to image no.: 6"
+                    ]
+                },
+                {
+                    "label": "Identifier",
+                    "value": "2e0eda2795ec1bf8e8b3d789e3768e6d"
+                },
+                {
+                    "label": "identifier",
+                    "value": "u-renja1512_0001_0006"
+                }
+            ],
+            "thumbnail": {
+                "@id": "https://img.toyobunko-lab.jp/iiif/kaken/18K00073/u-renja1512/image001.tif/full/200,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": null,
+                "width": null
+            }
+        },
+        {
+            "@id": "https://static.toyobunko-lab.jp/u-renja/iiif2/9ae73c0d4c9621940c16e492c87cba4a/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "受用三水要行法1卷",
+            "metadata": [
+                {
+                    "label": "Title",
+                    "value": "受用三水要行法1卷"
+                },
+                {
+                    "label": "Description",
+                    "value": [
+                        "通番: 1513",
+                        "from image no.: 1",
+                        "to image no.: 4"
+                    ]
+                },
+                {
+                    "label": "Identifier",
+                    "value": "9ae73c0d4c9621940c16e492c87cba4a"
+                },
+                {
+                    "label": "identifier",
+                    "value": "u-renja1513_0001_0004"
+                }
+            ],
+            "thumbnail": {
+                "@id": "https://img.toyobunko-lab.jp/iiif/kaken/18K00073/u-renja1513/image001.tif/full/200,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": null,
+                "width": null
+            }
+        },
+        {
+            "@id": "https://static.toyobunko-lab.jp/u-renja/iiif2/edc01f3a87168f6840cf6497dbefb575/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "護命放生軌儀法1卷",
+            "metadata": [
+                {
+                    "label": "Title",
+                    "value": "護命放生軌儀法1卷"
+                },
+                {
+                    "label": "Description",
+                    "value": [
+                        "通番: 1514",
+                        "from image no.: 1",
+                        "to image no.: 4"
+                    ]
+                },
+                {
+                    "label": "Identifier",
+                    "value": "edc01f3a87168f6840cf6497dbefb575"
+                },
+                {
+                    "label": "identifier",
+                    "value": "u-renja1514_0001_0004"
+                }
+            ],
+            "thumbnail": {
+                "@id": "https://img.toyobunko-lab.jp/iiif/kaken/18K00073/u-renja1514/image001.tif/full/200,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": null,
+                "width": null
+            }
+        },
+        {
+            "@id": "https://static.toyobunko-lab.jp/u-renja/iiif2/866ea3fd3129a8d207541cf0ad4dbbac/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "慈悲道場懺法10卷",
+            "metadata": [
+                {
+                    "label": "Title",
+                    "value": "慈悲道場懺法10卷"
+                },
+                {
+                    "label": "Description",
+                    "value": [
+                        "通番: 1515",
+                        "from image no.: 1",
+                        "to image no.: 179"
+                    ]
+                },
+                {
+                    "label": "Identifier",
+                    "value": "866ea3fd3129a8d207541cf0ad4dbbac"
+                },
+                {
+                    "label": "identifier",
+                    "value": "u-renja1515_0001_0179"
+                }
+            ],
+            "thumbnail": {
+                "@id": "https://img.toyobunko-lab.jp/iiif/kaken/18K00073/u-renja1515/image001.tif/full/200,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": null,
+                "width": null
+            }
+        },
+        {
+            "@id": "https://static.toyobunko-lab.jp/u-renja/iiif2/8580fa957c6fb72890b83e649300726e/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "法華三昧懺儀1卷",
+            "metadata": [
+                {
+                    "label": "Title",
+                    "value": "法華三昧懺儀1卷"
+                },
+                {
+                    "label": "Description",
+                    "value": [
+                        "通番: 1516",
+                        "from image no.: 1",
+                        "to image no.: 26"
+                    ]
+                },
+                {
+                    "label": "Identifier",
+                    "value": "8580fa957c6fb72890b83e649300726e"
+                },
+                {
+                    "label": "identifier",
+                    "value": "u-renja1516_0001_0026"
+                }
+            ],
+            "thumbnail": {
+                "@id": "https://img.toyobunko-lab.jp/iiif/kaken/18K00073/u-renja1516/image001.tif/full/200,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": null,
+                "width": null
+            }
+        },
+        {
+            "@id": "https://static.toyobunko-lab.jp/u-renja/iiif2/161ea38126c36b338d2455dbc05a78fc/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "法華三昧行事運想補助儀1卷",
+            "metadata": [
+                {
+                    "label": "Title",
+                    "value": "法華三昧行事運想補助儀1卷"
+                },
+                {
+                    "label": "Description",
+                    "value": [
+                        "通番: 1517",
+                        "from image no.: 1",
+                        "to image no.: 4"
+                    ]
+                },
+                {
+                    "label": "Identifier",
+                    "value": "161ea38126c36b338d2455dbc05a78fc"
+                },
+                {
+                    "label": "identifier",
+                    "value": "u-renja1517_0001_0004"
+                }
+            ],
+            "thumbnail": {
+                "@id": "https://img.toyobunko-lab.jp/iiif/kaken/18K00073/u-renja1517/image001.tif/full/200,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": null,
+                "width": null
+            }
+        },
+        {
+            "@id": "https://static.toyobunko-lab.jp/u-renja/iiif2/1e81404364e8b94b3479a471f1f9e416/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "金光明懺法補助儀1卷",
+            "metadata": [
+                {
+                    "label": "Title",
+                    "value": "金光明懺法補助儀1卷"
+                },
+                {
+                    "label": "Description",
+                    "value": [
+                        "通番: 1518",
+                        "from image no.: 1",
+                        "to image no.: 18"
+                    ]
+                },
+                {
+                    "label": "Identifier",
+                    "value": "1e81404364e8b94b3479a471f1f9e416"
+                },
+                {
+                    "label": "identifier",
+                    "value": "u-renja1518a_0001_0018"
+                }
+            ],
+            "thumbnail": {
+                "@id": "https://img.toyobunko-lab.jp/iiif/kaken/18K00073/u-renja1518a/image001.tif/full/200,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": null,
+                "width": null
+            }
+        },
+        {
+            "@id": "https://static.toyobunko-lab.jp/u-renja/iiif2/68687c3e527dd02d0e472b2eeadaa8ab/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "略法華三昧補助儀1卷",
+            "metadata": [
+                {
+                    "label": "Title",
+                    "value": "略法華三昧補助儀1卷"
+                },
+                {
+                    "label": "Description",
+                    "value": [
+                        "通番: 1518",
+                        "from image no.: 1",
+                        "to image no.: 2"
+                    ]
+                },
+                {
+                    "label": "Identifier",
+                    "value": "68687c3e527dd02d0e472b2eeadaa8ab"
+                },
+                {
+                    "label": "identifier",
+                    "value": "u-renja1518b_0001_0002"
+                }
+            ],
+            "thumbnail": {
+                "@id": "https://img.toyobunko-lab.jp/iiif/kaken/18K00073/u-renja1518b/image001.tif/full/200,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": null,
+                "width": null
+            }
+        },
+        {
+            "@id": "https://static.toyobunko-lab.jp/u-renja/iiif2/0933dba2debc8af4b1e2e0e8e553291e/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "往生淨土懺願儀1卷",
+            "metadata": [
+                {
+                    "label": "Title",
+                    "value": "往生淨土懺願儀1卷"
+                },
+                {
+                    "label": "Description",
+                    "value": [
+                        "通番: 1519",
+                        "from image no.: 1",
+                        "to image no.: 17"
+                    ]
+                },
+                {
+                    "label": "Identifier",
+                    "value": "0933dba2debc8af4b1e2e0e8e553291e"
+                },
+                {
+                    "label": "identifier",
+                    "value": "u-renja1519_0001_0017"
+                }
+            ],
+            "thumbnail": {
+                "@id": "https://img.toyobunko-lab.jp/iiif/kaken/18K00073/u-renja1519/image001.tif/full/200,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": null,
+                "width": null
+            }
+        },
+        {
+            "@id": "https://static.toyobunko-lab.jp/u-renja/iiif2/8a591453098758f28e828af3787ec585/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "往生淨土決疑行願二門1卷",
+            "metadata": [
+                {
+                    "label": "Title",
+                    "value": "往生淨土決疑行願二門1卷"
+                },
+                {
+                    "label": "Description",
+                    "value": [
+                        "通番: 1520",
+                        "from image no.: 1",
+                        "to image no.: 13"
+                    ]
+                },
+                {
+                    "label": "Identifier",
+                    "value": "8a591453098758f28e828af3787ec585"
+                },
+                {
+                    "label": "identifier",
+                    "value": "u-renja1520_0001_0013"
+                }
+            ],
+            "thumbnail": {
+                "@id": "https://img.toyobunko-lab.jp/iiif/kaken/18K00073/u-renja1520/image001.tif/full/200,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": null,
+                "width": null
+            }
+        },
+        {
+            "@id": "https://static.toyobunko-lab.jp/u-renja/iiif2/2eb1920af4ae57dbe3d0cc1a32f790cd/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "請觀世音菩薩消伏毒害陀羅尼三昧儀1卷",
+            "metadata": [
+                {
+                    "label": "Title",
+                    "value": "請觀世音菩薩消伏毒害陀羅尼三昧儀1卷"
+                },
+                {
+                    "label": "Description",
+                    "value": [
+                        "通番: 1521",
+                        "from image no.: 1",
+                        "to image no.: 19"
+                    ]
+                },
+                {
+                    "label": "Identifier",
+                    "value": "2eb1920af4ae57dbe3d0cc1a32f790cd"
+                },
+                {
+                    "label": "identifier",
+                    "value": "u-renja1521_0001_0019"
+                }
+            ],
+            "thumbnail": {
+                "@id": "https://img.toyobunko-lab.jp/iiif/kaken/18K00073/u-renja1521/image001.tif/full/200,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": null,
+                "width": null
+            }
+        },
+        {
+            "@id": "https://static.toyobunko-lab.jp/u-renja/iiif2/d34b27a740bc86d3492162075a4c3542/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "金光明最勝懺儀1卷坿",
+            "metadata": [
+                {
+                    "label": "Title",
+                    "value": "金光明最勝懺儀1卷坿"
+                },
+                {
+                    "label": "Description",
+                    "value": [
+                        "通番: 1522",
+                        "from image no.: 1",
+                        "to image no.: 8"
+                    ]
+                },
+                {
+                    "label": "Identifier",
+                    "value": "d34b27a740bc86d3492162075a4c3542"
+                },
+                {
+                    "label": "identifier",
+                    "value": "u-renja1522_0001_0008"
+                }
+            ],
+            "thumbnail": {
+                "@id": "https://img.toyobunko-lab.jp/iiif/kaken/18K00073/u-renja1522/image001.tif/full/200,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": null,
+                "width": null
+            }
+        },
+        {
+            "@id": "https://static.toyobunko-lab.jp/u-renja/iiif2/2ec3c268c2151b176d920ef7ecff40fc/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "千手眼大悲心呪行法1卷",
+            "metadata": [
+                {
+                    "label": "Title",
+                    "value": "千手眼大悲心呪行法1卷"
+                },
+                {
+                    "label": "Description",
+                    "value": [
+                        "通番: 1523",
+                        "from image no.: 1",
+                        "to image no.: 21"
+                    ]
+                },
+                {
+                    "label": "Identifier",
+                    "value": "2ec3c268c2151b176d920ef7ecff40fc"
+                },
+                {
+                    "label": "identifier",
+                    "value": "u-renja1523_0001_0021"
+                }
+            ],
+            "thumbnail": {
+                "@id": "https://img.toyobunko-lab.jp/iiif/kaken/18K00073/u-renja1523/image001.tif/full/200,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": null,
+                "width": null
+            }
+        },
+        {
+            "@id": "https://static.toyobunko-lab.jp/u-renja/iiif2/52a62901682225f03eca68c84d4bb6fc/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "禮法華經儀式1卷",
+            "metadata": [
+                {
+                    "label": "Title",
+                    "value": "禮法華經儀式1卷"
+                },
+                {
+                    "label": "Description",
+                    "value": [
+                        "通番: 1524",
+                        "from image no.: 1",
+                        "to image no.: 3"
+                    ]
+                },
+                {
+                    "label": "Identifier",
+                    "value": "52a62901682225f03eca68c84d4bb6fc"
+                },
+                {
+                    "label": "identifier",
+                    "value": "u-renja1524-1525_0001_0003"
+                }
+            ],
+            "thumbnail": {
+                "@id": "https://img.toyobunko-lab.jp/iiif/kaken/18K00073/u-renja1524-1525/image001.tif/full/200,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": null,
+                "width": null
+            }
+        },
+        {
+            "@id": "https://static.toyobunko-lab.jp/u-renja/iiif2/9b8d8101b389b5c536b71f33ad39227a/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "禮法華經儀式1卷",
+            "metadata": [
+                {
+                    "label": "Title",
+                    "value": "禮法華經儀式1卷"
+                },
+                {
+                    "label": "Description",
+                    "value": [
+                        "通番: 1525",
+                        "from image no.: 3",
+                        "to image no.: 5"
+                    ]
+                },
+                {
+                    "label": "Identifier",
+                    "value": "9b8d8101b389b5c536b71f33ad39227a"
+                },
+                {
+                    "label": "identifier",
+                    "value": "u-renja1524-1525_0003_0005"
+                }
+            ],
+            "thumbnail": {
+                "@id": "https://img.toyobunko-lab.jp/iiif/kaken/18K00073/u-renja1524-1525/image003.tif/full/200,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": null,
+                "width": null
+            }
+        },
+        {
+            "@id": "https://static.toyobunko-lab.jp/u-renja/iiif2/0c9f8485475943ff387dc521a2585417/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "熾盛光道場念誦儀1卷",
+            "metadata": [
+                {
+                    "label": "Title",
+                    "value": "熾盛光道場念誦儀1卷"
+                },
+                {
+                    "label": "Description",
+                    "value": [
+                        "通番: 1526",
+                        "from image no.: 1",
+                        "to image no.: 18"
+                    ]
+                },
+                {
+                    "label": "Identifier",
+                    "value": "0c9f8485475943ff387dc521a2585417"
+                },
+                {
+                    "label": "identifier",
+                    "value": "u-renja1526_0001_0018"
+                }
+            ],
+            "thumbnail": {
+                "@id": "https://img.toyobunko-lab.jp/iiif/kaken/18K00073/u-renja1526/image001.tif/full/200,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": null,
+                "width": null
+            }
+        },
+        {
+            "@id": "https://static.toyobunko-lab.jp/u-renja/iiif2/c0549c665a1bfbc2356d38cc2b199682/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "釋迦如來涅槃禮讚文1卷",
+            "metadata": [
+                {
+                    "label": "Title",
+                    "value": "釋迦如來涅槃禮讚文1卷"
+                },
+                {
+                    "label": "Description",
+                    "value": [
+                        "通番: 1527",
+                        "from image no.: 1",
+                        "to image no.: 11"
+                    ]
+                },
+                {
+                    "label": "Identifier",
+                    "value": "c0549c665a1bfbc2356d38cc2b199682"
+                },
+                {
+                    "label": "identifier",
+                    "value": "u-renja1527_0001_0011"
+                }
+            ],
+            "thumbnail": {
+                "@id": "https://img.toyobunko-lab.jp/iiif/kaken/18K00073/u-renja1527/image001.tif/full/200,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": null,
+                "width": null
+            }
+        },
+        {
+            "@id": "https://static.toyobunko-lab.jp/u-renja/iiif2/8a1fc1fdc300d38a57da124b92893053/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "天台智者大師齋忌禮讚文1卷",
+            "metadata": [
+                {
+                    "label": "Title",
+                    "value": "天台智者大師齋忌禮讚文1卷"
+                },
+                {
+                    "label": "Description",
+                    "value": [
+                        "通番: 1528",
+                        "from image no.: 1",
+                        "to image no.: 9"
+                    ]
+                },
+                {
+                    "label": "Identifier",
+                    "value": "8a1fc1fdc300d38a57da124b92893053"
+                },
+                {
+                    "label": "identifier",
+                    "value": "u-renja1528_0001_0009"
+                }
+            ],
+            "thumbnail": {
+                "@id": "https://img.toyobunko-lab.jp/iiif/kaken/18K00073/u-renja1528/image001.tif/full/200,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": null,
+                "width": null
+            }
+        },
+        {
+            "@id": "https://static.toyobunko-lab.jp/u-renja/iiif2/79c418c21f2866ed9938cb325bc45802/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "觀自在菩薩如意輪呪課法1卷",
+            "metadata": [
+                {
+                    "label": "Title",
+                    "value": "觀自在菩薩如意輪呪課法1卷"
+                },
+                {
+                    "label": "Description",
+                    "value": [
+                        "通番: 1529",
+                        "from image no.: 1",
+                        "to image no.: 11"
+                    ]
+                },
+                {
+                    "label": "Identifier",
+                    "value": "79c418c21f2866ed9938cb325bc45802"
+                },
+                {
+                    "label": "identifier",
+                    "value": "u-renja1529_0001_0011"
+                }
+            ],
+            "thumbnail": {
+                "@id": "https://img.toyobunko-lab.jp/iiif/kaken/18K00073/u-renja1529/image001.tif/full/200,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": null,
+                "width": null
+            }
+        },
+        {
+            "@id": "https://static.toyobunko-lab.jp/u-renja/iiif2/28afbe6a9ea63a090aaee0144a63ec78/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "慈悲水懺灋3卷",
+            "metadata": [
+                {
+                    "label": "Title",
+                    "value": "慈悲水懺灋3卷"
+                },
+                {
+                    "label": "Description",
+                    "value": [
+                        "通番: 1530",
+                        "from image no.: 1",
+                        "to image no.: 50"
+                    ]
+                },
+                {
+                    "label": "Identifier",
+                    "value": "28afbe6a9ea63a090aaee0144a63ec78"
+                },
+                {
+                    "label": "identifier",
+                    "value": "u-renja1530_0001_0050"
+                }
+            ],
+            "thumbnail": {
+                "@id": "https://img.toyobunko-lab.jp/iiif/kaken/18K00073/u-renja1530/image001.tif/full/200,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": null,
+                "width": null
+            }
+        },
+        {
+            "@id": "https://static.toyobunko-lab.jp/u-renja/iiif2/ee126fad059fe93e5626a6c9e1666b91/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "六祖大師法寶壇經1卷",
+            "metadata": [
+                {
+                    "label": "Title",
+                    "value": "六祖大師法寶壇經1卷"
+                },
+                {
+                    "label": "Description",
+                    "value": [
+                        "通番: 1532",
+                        "from image no.: 1",
+                        "to image no.: 76"
+                    ]
+                },
+                {
+                    "label": "Identifier",
+                    "value": "ee126fad059fe93e5626a6c9e1666b91"
+                },
+                {
+                    "label": "identifier",
+                    "value": "u-renja1532_0001_0076"
+                }
+            ],
+            "thumbnail": {
+                "@id": "https://img.toyobunko-lab.jp/iiif/kaken/18K00073/u-renja1532/image001.tif/full/200,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": null,
+                "width": null
+            }
+        },
+        {
+            "@id": "https://static.toyobunko-lab.jp/u-renja/iiif2/051641bd700420de103ea2474f264910/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "明覺禪師語録6卷",
+            "metadata": [
+                {
+                    "label": "Title",
+                    "value": "明覺禪師語録6卷"
+                },
+                {
+                    "label": "Description",
+                    "value": [
+                        "通番: 1534",
+                        "from image no.: 1",
+                        "to image no.: 176"
+                    ]
+                },
+                {
+                    "label": "Identifier",
+                    "value": "051641bd700420de103ea2474f264910"
+                },
+                {
+                    "label": "identifier",
+                    "value": "u-renja1534_0001_0176"
+                }
+            ],
+            "thumbnail": {
+                "@id": "https://img.toyobunko-lab.jp/iiif/kaken/18K00073/u-renja1534/image001.tif/full/200,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": null,
+                "width": null
+            }
+        },
+        {
+            "@id": "https://static.toyobunko-lab.jp/u-renja/iiif2/bda1cc6628f13f030320d8a2baa59904/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "傳法正宗論2卷",
+            "metadata": [
+                {
+                    "label": "Title",
+                    "value": "傳法正宗論2卷"
+                },
+                {
+                    "label": "Description",
+                    "value": [
+                        "通番: 1535",
+                        "from image no.: 1",
+                        "to image no.: 41"
+                    ]
+                },
+                {
+                    "label": "Identifier",
+                    "value": "bda1cc6628f13f030320d8a2baa59904"
+                },
+                {
+                    "label": "identifier",
+                    "value": "u-renja1535_0001_0041"
+                }
+            ],
+            "thumbnail": {
+                "@id": "https://img.toyobunko-lab.jp/iiif/kaken/18K00073/u-renja1535/image001.tif/full/200,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": null,
+                "width": null
+            }
+        },
+        {
+            "@id": "https://static.toyobunko-lab.jp/u-renja/iiif2/1e486908aff588b21b5119010affaeb7/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "圓悟佛果禪師語録20卷",
+            "metadata": [
+                {
+                    "label": "Title",
+                    "value": "圓悟佛果禪師語録20卷"
+                },
+                {
+                    "label": "Description",
+                    "value": [
+                        "通番: 1538",
+                        "from image no.: 1",
+                        "to image no.: 385"
+                    ]
+                },
+                {
+                    "label": "Identifier",
+                    "value": "1e486908aff588b21b5119010affaeb7"
+                },
+                {
+                    "label": "identifier",
+                    "value": "u-renja1538_0001_0385"
+                }
+            ],
+            "thumbnail": {
+                "@id": "https://img.toyobunko-lab.jp/iiif/kaken/18K00073/u-renja1538/image001.tif/full/200,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": null,
+                "width": null
+            }
+        },
+        {
+            "@id": "https://static.toyobunko-lab.jp/u-renja/iiif2/d73feba07a951a776509c5f3e46dc3b3/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "大慧普覺禪師宗門武庫1卷",
+            "metadata": [
+                {
+                    "label": "Title",
+                    "value": "大慧普覺禪師宗門武庫1卷"
+                },
+                {
+                    "label": "Description",
+                    "value": [
+                        "通番: 1540",
+                        "from image no.: 1",
+                        "to image no.: 51"
+                    ]
+                },
+                {
+                    "label": "Identifier",
+                    "value": "d73feba07a951a776509c5f3e46dc3b3"
+                },
+                {
+                    "label": "identifier",
+                    "value": "u-renja1540_0001_0051"
+                }
+            ],
+            "thumbnail": {
+                "@id": "https://img.toyobunko-lab.jp/iiif/kaken/18K00073/u-renja1540/image001.tif/full/200,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": null,
+                "width": null
+            }
+        },
+        {
+            "@id": "https://static.toyobunko-lab.jp/u-renja/iiif2/40df446ab011c414c276df3a603197aa/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "大慧普覺禪師語録30卷",
+            "metadata": [
+                {
+                    "label": "Title",
+                    "value": "大慧普覺禪師語録30卷"
+                },
+                {
+                    "label": "Description",
+                    "value": [
+                        "通番: 1542",
+                        "from image no.: 1",
+                        "to image no.: 475"
+                    ]
+                },
+                {
+                    "label": "Identifier",
+                    "value": "40df446ab011c414c276df3a603197aa"
+                },
+                {
+                    "label": "identifier",
+                    "value": "u-renja1542_0001_0475"
+                }
+            ],
+            "thumbnail": {
+                "@id": "https://img.toyobunko-lab.jp/iiif/kaken/18K00073/u-renja1542/image001.tif/full/200,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": null,
+                "width": null
+            }
+        },
+        {
+            "@id": "https://static.toyobunko-lab.jp/u-renja/iiif2/59e5d14ba381b5ac5f43fb39c6fd09b0/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "妙法蓮華經玄義10卷",
+            "metadata": [
+                {
+                    "label": "Title",
+                    "value": "妙法蓮華經玄義10卷"
+                },
+                {
+                    "label": "Description",
+                    "value": [
+                        "通番: 1544",
+                        "from image no.: 1",
+                        "to image no.: 490"
+                    ]
+                },
+                {
+                    "label": "Identifier",
+                    "value": "59e5d14ba381b5ac5f43fb39c6fd09b0"
+                },
+                {
+                    "label": "identifier",
+                    "value": "u-renja1544_0001_0490"
+                }
+            ],
+            "thumbnail": {
+                "@id": "https://img.toyobunko-lab.jp/iiif/kaken/18K00073/u-renja1544/image001.tif/full/200,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": null,
+                "width": null
+            }
+        },
+        {
+            "@id": "https://static.toyobunko-lab.jp/u-renja/iiif2/d8728b87a6608def78973b0d98fbcf81/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "妙法蓮華經玄義10卷縁起序1卷坿科文2卷",
+            "metadata": [
+                {
+                    "label": "Title",
+                    "value": "妙法蓮華經玄義10卷縁起序1卷坿科文2卷"
+                },
+                {
+                    "label": "Description",
+                    "value": [
+                        "通番: 1545",
+                        "from image no.: 1",
+                        "to image no.: 1255"
+                    ]
+                },
+                {
+                    "label": "Identifier",
+                    "value": "d8728b87a6608def78973b0d98fbcf81"
+                },
+                {
+                    "label": "identifier",
+                    "value": "u-renja1545_0001_1255"
+                }
+            ],
+            "thumbnail": {
+                "@id": "https://img.toyobunko-lab.jp/iiif/kaken/18K00073/u-renja1545/image0001.tif/full/200,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": null,
+                "width": null
+            }
+        },
+        {
+            "@id": "https://static.toyobunko-lab.jp/u-renja/iiif2/5974c317ed3b255c7a3dcc6e1f2429fe/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "妙法蓮華經文句10卷",
+            "metadata": [
+                {
+                    "label": "Title",
+                    "value": "妙法蓮華經文句10卷"
+                },
+                {
+                    "label": "Description",
+                    "value": [
+                        "通番: 1546",
+                        "from image no.: 1",
+                        "to image no.: 538"
+                    ]
+                },
+                {
+                    "label": "Identifier",
+                    "value": "5974c317ed3b255c7a3dcc6e1f2429fe"
+                },
+                {
+                    "label": "identifier",
+                    "value": "u-renja1546_0001_0538"
+                }
+            ],
+            "thumbnail": {
+                "@id": "https://img.toyobunko-lab.jp/iiif/kaken/18K00073/u-renja1546/image001.tif/full/200,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": null,
+                "width": null
+            }
+        },
+        {
+            "@id": "https://static.toyobunko-lab.jp/u-renja/iiif2/684d3e556e36ded92f46f2b55d71ac5b/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "法華文句記10卷",
+            "metadata": [
+                {
+                    "label": "Title",
+                    "value": "法華文句記10卷"
+                },
+                {
+                    "label": "Description",
+                    "value": [
+                        "通番: 1547",
+                        "from image no.: 1",
+                        "to image no.: 770"
+                    ]
+                },
+                {
+                    "label": "Identifier",
+                    "value": "684d3e556e36ded92f46f2b55d71ac5b"
+                },
+                {
+                    "label": "identifier",
+                    "value": "u-renja1547_0001_0770"
+                }
+            ],
+            "thumbnail": {
+                "@id": "https://img.toyobunko-lab.jp/iiif/kaken/18K00073/u-renja1547/image001.tif/full/200,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": null,
+                "width": null
+            }
+        },
+        {
+            "@id": "https://static.toyobunko-lab.jp/u-renja/iiif2/7ea0196a4e34517d75626d027cd722c9/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "摩訶止觀10卷",
+            "metadata": [
+                {
+                    "label": "Title",
+                    "value": "摩訶止觀10卷"
+                },
+                {
+                    "label": "Description",
+                    "value": [
+                        "通番: 1548",
+                        "from image no.: 1",
+                        "to image no.: 514"
+                    ]
+                },
+                {
+                    "label": "Identifier",
+                    "value": "7ea0196a4e34517d75626d027cd722c9"
+                },
+                {
+                    "label": "identifier",
+                    "value": "u-renja1548_0001_0514"
+                }
+            ],
+            "thumbnail": {
+                "@id": "https://img.toyobunko-lab.jp/iiif/kaken/18K00073/u-renja1548/image001.tif/full/200,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": null,
+                "width": null
+            }
+        },
+        {
+            "@id": "https://static.toyobunko-lab.jp/u-renja/iiif2/36ca414602d5d3f22c42fa5dcdd17585/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "止觀輔行傳弘決10卷",
+            "metadata": [
+                {
+                    "label": "Title",
+                    "value": "止觀輔行傳弘決10卷"
+                },
+                {
+                    "label": "Description",
+                    "value": [
+                        "通番: 1549",
+                        "from image no.: 1",
+                        "to image no.: 1118"
+                    ]
+                },
+                {
+                    "label": "Identifier",
+                    "value": "36ca414602d5d3f22c42fa5dcdd17585"
+                },
+                {
+                    "label": "identifier",
+                    "value": "u-renja1549_0001_1118"
+                }
+            ],
+            "thumbnail": {
+                "@id": "https://img.toyobunko-lab.jp/iiif/kaken/18K00073/u-renja1549/image0001.tif/full/200,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": null,
+                "width": null
+            }
+        },
+        {
+            "@id": "https://static.toyobunko-lab.jp/u-renja/iiif2/7061a45cd0d08fd2d27675eed00ca554/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "修習止觀坐禪法要1卷",
+            "metadata": [
+                {
+                    "label": "Title",
+                    "value": "修習止觀坐禪法要1卷"
+                },
+                {
+                    "label": "Description",
+                    "value": [
+                        "通番: 1550",
+                        "from image no.: 1",
+                        "to image no.: 74"
+                    ]
+                },
+                {
+                    "label": "Identifier",
+                    "value": "7061a45cd0d08fd2d27675eed00ca554"
+                },
+                {
+                    "label": "identifier",
+                    "value": "u-renja1550-1551_0001_0074"
+                }
+            ],
+            "thumbnail": {
+                "@id": "https://img.toyobunko-lab.jp/iiif/kaken/18K00073/u-renja1550-1551/image001.tif/full/200,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": null,
+                "width": null
+            }
+        },
+        {
+            "@id": "https://static.toyobunko-lab.jp/u-renja/iiif2/44269b81c106cd3951a3552702bbc901/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "止觀義例2卷",
+            "metadata": [
+                {
+                    "label": "Title",
+                    "value": "止觀義例2卷"
+                },
+                {
+                    "label": "Description",
+                    "value": [
+                        "通番: 1551",
+                        "from image no.: 74",
+                        "to image no.: 116"
+                    ]
+                },
+                {
+                    "label": "Identifier",
+                    "value": "44269b81c106cd3951a3552702bbc901"
+                },
+                {
+                    "label": "identifier",
+                    "value": "u-renja1550-1551_0074_0116"
+                }
+            ],
+            "thumbnail": {
+                "@id": "https://img.toyobunko-lab.jp/iiif/kaken/18K00073/u-renja1550-1551/image074.tif/full/200,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": null,
+                "width": null
+            }
+        },
+        {
+            "@id": "https://static.toyobunko-lab.jp/u-renja/iiif2/5ffbffdf10d3afd0a2522cea73a83721/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "大乘止觀法門4卷",
+            "metadata": [
+                {
+                    "label": "Title",
+                    "value": "大乘止觀法門4卷"
+                },
+                {
+                    "label": "Description",
+                    "value": [
+                        "通番: 1552",
+                        "from image no.: 1",
+                        "to image no.: 96"
+                    ]
+                },
+                {
+                    "label": "Identifier",
+                    "value": "5ffbffdf10d3afd0a2522cea73a83721"
+                },
+                {
+                    "label": "identifier",
+                    "value": "u-renja1552-1553_0001_0096"
+                }
+            ],
+            "thumbnail": {
+                "@id": "https://img.toyobunko-lab.jp/iiif/kaken/18K00073/u-renja1552-1553/image001.tif/full/200,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": null,
+                "width": null
+            }
+        },
+        {
+            "@id": "https://static.toyobunko-lab.jp/u-renja/iiif2/9b335ff225fef37723ee988f100e6773/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "諸法無諍三昧法門2卷",
+            "metadata": [
+                {
+                    "label": "Title",
+                    "value": "諸法無諍三昧法門2卷"
+                },
+                {
+                    "label": "Description",
+                    "value": [
+                        "通番: 1553",
+                        "from image no.: 96",
+                        "to image no.: 149"
+                    ]
+                },
+                {
+                    "label": "Identifier",
+                    "value": "9b335ff225fef37723ee988f100e6773"
+                },
+                {
+                    "label": "identifier",
+                    "value": "u-renja1552-1553_0096_0149"
+                }
+            ],
+            "thumbnail": {
+                "@id": "https://img.toyobunko-lab.jp/iiif/kaken/18K00073/u-renja1552-1553/image096.tif/full/200,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": null,
+                "width": null
+            }
+        },
+        {
+            "@id": "https://static.toyobunko-lab.jp/u-renja/iiif2/dd08568a56b9003e4ade4508ef0ba3c4/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "大般涅槃經疏33卷",
+            "metadata": [
+                {
+                    "label": "Title",
+                    "value": "大般涅槃經疏33卷"
+                },
+                {
+                    "label": "Description",
+                    "value": [
+                        "通番: 1554",
+                        "from image no.: 1",
+                        "to image no.: 735"
+                    ]
+                },
+                {
+                    "label": "Identifier",
+                    "value": "dd08568a56b9003e4ade4508ef0ba3c4"
+                },
+                {
+                    "label": "identifier",
+                    "value": "u-renja1554_0001_0735"
+                }
+            ],
+            "thumbnail": {
+                "@id": "https://img.toyobunko-lab.jp/iiif/kaken/18K00073/u-renja1554/image001.tif/full/200,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": null,
+                "width": null
+            }
+        },
+        {
+            "@id": "https://static.toyobunko-lab.jp/u-renja/iiif2/270f23055aefd00a1cc77bc460a22494/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "大般涅槃經玄義2卷",
+            "metadata": [
+                {
+                    "label": "Title",
+                    "value": "大般涅槃經玄義2卷"
+                },
+                {
+                    "label": "Description",
+                    "value": [
+                        "通番: 1555",
+                        "from image no.: 1",
+                        "to image no.: 56"
+                    ]
+                },
+                {
+                    "label": "Identifier",
+                    "value": "270f23055aefd00a1cc77bc460a22494"
+                },
+                {
+                    "label": "identifier",
+                    "value": "u-renja1555-1556_0001_0056"
+                }
+            ],
+            "thumbnail": {
+                "@id": "https://img.toyobunko-lab.jp/iiif/kaken/18K00073/u-renja1555-1556/image001.tif/full/200,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": null,
+                "width": null
+            }
+        },
+        {
+            "@id": "https://static.toyobunko-lab.jp/u-renja/iiif2/ee23196d1a02469238a3d905e55a991b/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "法華經安樂行義1卷",
+            "metadata": [
+                {
+                    "label": "Title",
+                    "value": "法華經安樂行義1卷"
+                },
+                {
+                    "label": "Description",
+                    "value": [
+                        "通番: 1556",
+                        "from image no.: 56",
+                        "to image no.: 76"
+                    ]
+                },
+                {
+                    "label": "Identifier",
+                    "value": "ee23196d1a02469238a3d905e55a991b"
+                },
+                {
+                    "label": "identifier",
+                    "value": "u-renja1555-1556_0056_0076"
+                }
+            ],
+            "thumbnail": {
+                "@id": "https://img.toyobunko-lab.jp/iiif/kaken/18K00073/u-renja1555-1556/image056.tif/full/200,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": null,
+                "width": null
+            }
+        },
+        {
+            "@id": "https://static.toyobunko-lab.jp/u-renja/iiif2/bf630ff6de48ca0baafe8af55179a46c/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "金光明經玄義拾遺記2卷玄義科1卷",
+            "metadata": [
+                {
+                    "label": "Title",
+                    "value": "金光明經玄義拾遺記2卷玄義科1卷"
+                },
+                {
+                    "label": "Description",
+                    "value": [
+                        "通番: 1558",
+                        "from image no.: 1",
+                        "to image no.: 295"
+                    ]
+                },
+                {
+                    "label": "Identifier",
+                    "value": "bf630ff6de48ca0baafe8af55179a46c"
+                },
+                {
+                    "label": "identifier",
+                    "value": "u-renja1558_0001_0295"
+                }
+            ],
+            "thumbnail": {
+                "@id": "https://img.toyobunko-lab.jp/iiif/kaken/18K00073/u-renja1558/image001.tif/full/200,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": null,
+                "width": null
+            }
+        },
+        {
+            "@id": "https://static.toyobunko-lab.jp/u-renja/iiif2/34ed4511b16667378d919e75e2bb5edf/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "金剛般若經疏1卷",
+            "metadata": [
+                {
+                    "label": "Title",
+                    "value": "金剛般若經疏1卷"
+                },
+                {
+                    "label": "Description",
+                    "value": [
+                        "通番: 1559",
+                        "from image no.: 1",
+                        "to image no.: 33"
+                    ]
+                },
+                {
+                    "label": "Identifier",
+                    "value": "34ed4511b16667378d919e75e2bb5edf"
+                },
+                {
+                    "label": "identifier",
+                    "value": "u-renja1559-1560_0001_0033"
+                }
+            ],
+            "thumbnail": {
+                "@id": "https://img.toyobunko-lab.jp/iiif/kaken/18K00073/u-renja1559-1560/image001.tif/full/200,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": null,
+                "width": null
+            }
+        },
+        {
+            "@id": "https://static.toyobunko-lab.jp/u-renja/iiif2/ec7149cebf1a91ff2f170c040d76dbc5/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "天台四教儀1卷坿科文1卷時教圖1卷",
+            "metadata": [
+                {
+                    "label": "Title",
+                    "value": "天台四教儀1卷坿科文1卷時教圖1卷"
+                },
+                {
+                    "label": "Description",
+                    "value": [
+                        "通番: 1560",
+                        "from image no.: 33",
+                        "to image no.: 88"
+                    ]
+                },
+                {
+                    "label": "Identifier",
+                    "value": "ec7149cebf1a91ff2f170c040d76dbc5"
+                },
+                {
+                    "label": "identifier",
+                    "value": "u-renja1559-1560_0033_0088"
+                }
+            ],
+            "thumbnail": {
+                "@id": "https://img.toyobunko-lab.jp/iiif/kaken/18K00073/u-renja1559-1560/image033.tif/full/200,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": null,
+                "width": null
+            }
+        },
+        {
+            "@id": "https://static.toyobunko-lab.jp/u-renja/iiif2/c1bab5ec5d2232276f177a9b4318592b/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "金光明經文句文句記8卷",
+            "metadata": [
+                {
+                    "label": "Title",
+                    "value": "金光明經文句文句記8卷"
+                },
+                {
+                    "label": "Description",
+                    "value": [
+                        "通番: 1561",
+                        "from image no.: 1",
+                        "to image no.: 661"
+                    ]
+                },
+                {
+                    "label": "Identifier",
+                    "value": "c1bab5ec5d2232276f177a9b4318592b"
+                },
+                {
+                    "label": "identifier",
+                    "value": "u-renja1561_0001_0661"
+                }
+            ],
+            "thumbnail": {
+                "@id": "https://img.toyobunko-lab.jp/iiif/kaken/18K00073/u-renja1561/image001.tif/full/200,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": null,
+                "width": null
+            }
+        },
+        {
+            "@id": "https://static.toyobunko-lab.jp/u-renja/iiif2/5dfce585509f93991227b40812bdf789/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "菩薩戒義疏2卷",
+            "metadata": [
+                {
+                    "label": "Title",
+                    "value": "菩薩戒義疏2卷"
+                },
+                {
+                    "label": "Description",
+                    "value": [
+                        "通番: 1562",
+                        "from image no.: 1",
+                        "to image no.: 68"
+                    ]
+                },
+                {
+                    "label": "Identifier",
+                    "value": "5dfce585509f93991227b40812bdf789"
+                },
+                {
+                    "label": "identifier",
+                    "value": "u-renja1562_0001_0068"
+                }
+            ],
+            "thumbnail": {
+                "@id": "https://img.toyobunko-lab.jp/iiif/kaken/18K00073/u-renja1562/image001.tif/full/200,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": null,
+                "width": null
+            }
+        },
+        {
+            "@id": "https://static.toyobunko-lab.jp/u-renja/iiif2/e7bc56b7705e4f6f382ef3d746b1760c/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "觀音玄義2卷",
+            "metadata": [
+                {
+                    "label": "Title",
+                    "value": "觀音玄義2卷"
+                },
+                {
+                    "label": "Description",
+                    "value": [
+                        "通番: 1563",
+                        "from image no.: 1",
+                        "to image no.: 60"
+                    ]
+                },
+                {
+                    "label": "Identifier",
+                    "value": "e7bc56b7705e4f6f382ef3d746b1760c"
+                },
+                {
+                    "label": "identifier",
+                    "value": "u-renja1563_0001_0060"
+                }
+            ],
+            "thumbnail": {
+                "@id": "https://img.toyobunko-lab.jp/iiif/kaken/18K00073/u-renja1563/image001.tif/full/200,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": null,
+                "width": null
+            }
+        },
+        {
+            "@id": "https://static.toyobunko-lab.jp/u-renja/iiif2/f9be2515b375961995cede74af736168/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "觀音玄義記4卷",
+            "metadata": [
+                {
+                    "label": "Title",
+                    "value": "觀音玄義記4卷"
+                },
+                {
+                    "label": "Description",
+                    "value": [
+                        "通番: 1564",
+                        "from image no.: 1",
+                        "to image no.: 114"
+                    ]
+                },
+                {
+                    "label": "Identifier",
+                    "value": "f9be2515b375961995cede74af736168"
+                },
+                {
+                    "label": "identifier",
+                    "value": "u-renja1564_0001_0114"
+                }
+            ],
+            "thumbnail": {
+                "@id": "https://img.toyobunko-lab.jp/iiif/kaken/18K00073/u-renja1564/image001.tif/full/200,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": null,
+                "width": null
+            }
+        },
+        {
+            "@id": "https://static.toyobunko-lab.jp/u-renja/iiif2/80c4910820741661e4fc15fafd20990e/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "觀音義疏2卷",
+            "metadata": [
+                {
+                    "label": "Title",
+                    "value": "觀音義疏2卷"
+                },
+                {
+                    "label": "Description",
+                    "value": [
+                        "通番: 1565",
+                        "from image no.: 1",
+                        "to image no.: 59"
+                    ]
+                },
+                {
+                    "label": "Identifier",
+                    "value": "80c4910820741661e4fc15fafd20990e"
+                },
+                {
+                    "label": "identifier",
+                    "value": "u-renja1565_0001_0059"
+                }
+            ],
+            "thumbnail": {
+                "@id": "https://img.toyobunko-lab.jp/iiif/kaken/18K00073/u-renja1565/image001.tif/full/200,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": null,
+                "width": null
+            }
+        },
+        {
+            "@id": "https://static.toyobunko-lab.jp/u-renja/iiif2/0382c13f14265dc4df6f8965e7803bf1/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "觀音義疏記4卷",
+            "metadata": [
+                {
+                    "label": "Title",
+                    "value": "觀音義疏記4卷"
+                },
+                {
+                    "label": "Description",
+                    "value": [
+                        "通番: 1566",
+                        "from image no.: 1",
+                        "to image no.: 97"
+                    ]
+                },
+                {
+                    "label": "Identifier",
+                    "value": "0382c13f14265dc4df6f8965e7803bf1"
+                },
+                {
+                    "label": "identifier",
+                    "value": "u-renja1566_0001_0097"
+                }
+            ],
+            "thumbnail": {
+                "@id": "https://img.toyobunko-lab.jp/iiif/kaken/18K00073/u-renja1566/image001.tif/full/200,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": null,
+                "width": null
+            }
+        },
+        {
+            "@id": "https://static.toyobunko-lab.jp/u-renja/iiif2/6bf759be17ae070b6f1519694e3d6d28/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "佛説觀無量壽佛經疏1卷",
+            "metadata": [
+                {
+                    "label": "Title",
+                    "value": "佛説觀無量壽佛經疏1卷"
+                },
+                {
+                    "label": "Description",
+                    "value": [
+                        "通番: 1567",
+                        "from image no.: 1",
+                        "to image no.: 33"
+                    ]
+                },
+                {
+                    "label": "Identifier",
+                    "value": "6bf759be17ae070b6f1519694e3d6d28"
+                },
+                {
+                    "label": "identifier",
+                    "value": "u-renja1567-1568_0001_0033"
+                }
+            ],
+            "thumbnail": {
+                "@id": "https://img.toyobunko-lab.jp/iiif/kaken/18K00073/u-renja1567-1568/image001.tif/full/200,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": null,
+                "width": null
+            }
+        },
+        {
+            "@id": "https://static.toyobunko-lab.jp/u-renja/iiif2/b89bbafc5b73a4c4236ce9316059f532/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "觀無量壽佛經疏妙宗鈔6卷",
+            "metadata": [
+                {
+                    "label": "Title",
+                    "value": "觀無量壽佛經疏妙宗鈔6卷"
+                },
+                {
+                    "label": "Description",
+                    "value": [
+                        "通番: 1568",
+                        "from image no.: 33",
+                        "to image no.: 111"
+                    ]
+                },
+                {
+                    "label": "Identifier",
+                    "value": "b89bbafc5b73a4c4236ce9316059f532"
+                },
+                {
+                    "label": "identifier",
+                    "value": "u-renja1567-1568_0033_0111"
+                }
+            ],
+            "thumbnail": {
+                "@id": "https://img.toyobunko-lab.jp/iiif/kaken/18K00073/u-renja1567-1568/image033.tif/full/200,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": null,
+                "width": null
+            }
+        },
+        {
+            "@id": "https://static.toyobunko-lab.jp/u-renja/iiif2/853a1449ad94693607706ca71bbb7cec/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "請觀音經疏1卷",
+            "metadata": [
+                {
+                    "label": "Title",
+                    "value": "請觀音經疏1卷"
+                },
+                {
+                    "label": "Description",
+                    "value": [
+                        "通番: 1570",
+                        "from image no.: 1",
+                        "to image no.: 36"
+                    ]
+                },
+                {
+                    "label": "Identifier",
+                    "value": "853a1449ad94693607706ca71bbb7cec"
+                },
+                {
+                    "label": "identifier",
+                    "value": "u-renja1570-1571_0001_0036"
+                }
+            ],
+            "thumbnail": {
+                "@id": "https://img.toyobunko-lab.jp/iiif/kaken/18K00073/u-renja1570-1571/image001.tif/full/200,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": null,
+                "width": null
+            }
+        },
+        {
+            "@id": "https://static.toyobunko-lab.jp/u-renja/iiif2/162ef71643a5113283c22489b5870407/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "請觀音經疏闡義鈔4卷",
+            "metadata": [
+                {
+                    "label": "Title",
+                    "value": "請觀音經疏闡義鈔4卷"
+                },
+                {
+                    "label": "Description",
+                    "value": [
+                        "通番: 1571",
+                        "from image no.: 36",
+                        "to image no.: 149"
+                    ]
+                },
+                {
+                    "label": "Identifier",
+                    "value": "162ef71643a5113283c22489b5870407"
+                },
+                {
+                    "label": "identifier",
+                    "value": "u-renja1570-1571_0036_0149"
+                }
+            ],
+            "thumbnail": {
+                "@id": "https://img.toyobunko-lab.jp/iiif/kaken/18K00073/u-renja1570-1571/image036.tif/full/200,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": null,
+                "width": null
+            }
+        },
+        {
+            "@id": "https://static.toyobunko-lab.jp/u-renja/iiif2/6852caff8e519f4936bb5060b7278600/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "釋摩訶般若波羅蜜經覺意三昧1卷",
+            "metadata": [
+                {
+                    "label": "Title",
+                    "value": "釋摩訶般若波羅蜜經覺意三昧1卷"
+                },
+                {
+                    "label": "Description",
+                    "value": [
+                        "通番: 1572",
+                        "from image no.: 1",
+                        "to image no.: 28"
+                    ]
+                },
+                {
+                    "label": "Identifier",
+                    "value": "6852caff8e519f4936bb5060b7278600"
+                },
+                {
+                    "label": "identifier",
+                    "value": "u-renja1572-1573_0001_0028"
+                }
+            ],
+            "thumbnail": {
+                "@id": "https://img.toyobunko-lab.jp/iiif/kaken/18K00073/u-renja1572-1573/image001.tif/full/200,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": null,
+                "width": null
+            }
+        },
+        {
+            "@id": "https://static.toyobunko-lab.jp/u-renja/iiif2/f074aada538ba90ff3642659ce5ffd98/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "四念處4卷",
+            "metadata": [
+                {
+                    "label": "Title",
+                    "value": "四念處4卷"
+                },
+                {
+                    "label": "Description",
+                    "value": [
+                        "通番: 1573",
+                        "from image no.: 28",
+                        "to image no.: 121"
+                    ]
+                },
+                {
+                    "label": "Identifier",
+                    "value": "f074aada538ba90ff3642659ce5ffd98"
+                },
+                {
+                    "label": "identifier",
+                    "value": "u-renja1572-1573_0028_0121"
+                }
+            ],
+            "thumbnail": {
+                "@id": "https://img.toyobunko-lab.jp/iiif/kaken/18K00073/u-renja1572-1573/image028.tif/full/200,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": null,
+                "width": null
+            }
+        },
+        {
+            "@id": "https://static.toyobunko-lab.jp/u-renja/iiif2/6c6f59365d5f7063461be350dd007a23/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "仁王護國般若經疏5卷",
+            "metadata": [
+                {
+                    "label": "Title",
+                    "value": "仁王護國般若經疏5卷"
+                },
+                {
+                    "label": "Description",
+                    "value": [
+                        "通番: 1574",
+                        "from image no.: 1",
+                        "to image no.: 120"
+                    ]
+                },
+                {
+                    "label": "Identifier",
+                    "value": "6c6f59365d5f7063461be350dd007a23"
+                },
+                {
+                    "label": "identifier",
+                    "value": "u-renja1574_0001_0120"
+                }
+            ],
+            "thumbnail": {
+                "@id": "https://img.toyobunko-lab.jp/iiif/kaken/18K00073/u-renja1574/image001.tif/full/200,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": null,
+                "width": null
+            }
+        },
+        {
+            "@id": "https://static.toyobunko-lab.jp/u-renja/iiif2/da9dce14d0fa0104f65cab9993c0fd1d/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "佛説仁王護國般若波羅蜜經疏神寶記4卷",
+            "metadata": [
+                {
+                    "label": "Title",
+                    "value": "佛説仁王護國般若波羅蜜經疏神寶記4卷"
+                },
+                {
+                    "label": "Description",
+                    "value": [
+                        "通番: 1575",
+                        "from image no.: 1",
+                        "to image no.: 108"
+                    ]
+                },
+                {
+                    "label": "Identifier",
+                    "value": "da9dce14d0fa0104f65cab9993c0fd1d"
+                },
+                {
+                    "label": "identifier",
+                    "value": "u-renja1575-1576_0001_0108"
+                }
+            ],
+            "thumbnail": {
+                "@id": "https://img.toyobunko-lab.jp/iiif/kaken/18K00073/u-renja1575-1576/image001.tif/full/200,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": null,
+                "width": null
+            }
+        },
+        {
+            "@id": "https://static.toyobunko-lab.jp/u-renja/iiif2/302cee8100039d245d245f32ba72e1c9/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "天台八教大意1卷",
+            "metadata": [
+                {
+                    "label": "Title",
+                    "value": "天台八教大意1卷"
+                },
+                {
+                    "label": "Description",
+                    "value": [
+                        "通番: 1576",
+                        "from image no.: 108",
+                        "to image no.: 127"
+                    ]
+                },
+                {
+                    "label": "Identifier",
+                    "value": "302cee8100039d245d245f32ba72e1c9"
+                },
+                {
+                    "label": "identifier",
+                    "value": "u-renja1575-1576_0108_0127"
+                }
+            ],
+            "thumbnail": {
+                "@id": "https://img.toyobunko-lab.jp/iiif/kaken/18K00073/u-renja1575-1576/image108.tif/full/200,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": null,
+                "width": null
+            }
+        },
+        {
+            "@id": "https://static.toyobunko-lab.jp/u-renja/iiif2/30268fa3f77a84583eb83afe0faa0df7/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "四教義6卷",
+            "metadata": [
+                {
+                    "label": "Title",
+                    "value": "四教義6卷"
+                },
+                {
+                    "label": "Description",
+                    "value": [
+                        "通番: 1577",
+                        "from image no.: 1",
+                        "to image no.: 164"
+                    ]
+                },
+                {
+                    "label": "Identifier",
+                    "value": "30268fa3f77a84583eb83afe0faa0df7"
+                },
+                {
+                    "label": "identifier",
+                    "value": "u-renja1577_0001_0164"
+                }
+            ],
+            "thumbnail": {
+                "@id": "https://img.toyobunko-lab.jp/iiif/kaken/18K00073/u-renja1577/image001.tif/full/200,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": null,
+                "width": null
+            }
+        },
+        {
+            "@id": "https://static.toyobunko-lab.jp/u-renja/iiif2/56aca2420bd7910bddbf5abdb9ad5055/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "國淸百録4卷",
+            "metadata": [
+                {
+                    "label": "Title",
+                    "value": "國淸百録4卷"
+                },
+                {
+                    "label": "Description",
+                    "value": [
+                        "通番: 1578",
+                        "from image no.: 1",
+                        "to image no.: 132"
+                    ]
+                },
+                {
+                    "label": "Identifier",
+                    "value": "56aca2420bd7910bddbf5abdb9ad5055"
+                },
+                {
+                    "label": "identifier",
+                    "value": "u-renja1578_0001_0132"
+                }
+            ],
+            "thumbnail": {
+                "@id": "https://img.toyobunko-lab.jp/iiif/kaken/18K00073/u-renja1578/image001.tif/full/200,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": null,
+                "width": null
+            }
+        },
+        {
+            "@id": "https://static.toyobunko-lab.jp/u-renja/iiif2/25f50b06eae59e256edb126079929325/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "釋禪波羅蜜次第法門10卷",
+            "metadata": [
+                {
+                    "label": "Title",
+                    "value": "釋禪波羅蜜次第法門10卷"
+                },
+                {
+                    "label": "Description",
+                    "value": [
+                        "通番: 1579",
+                        "from image no.: 1",
+                        "to image no.: 286"
+                    ]
+                },
+                {
+                    "label": "Identifier",
+                    "value": "25f50b06eae59e256edb126079929325"
+                },
+                {
+                    "label": "identifier",
+                    "value": "u-renja1579_0001_0286"
+                }
+            ],
+            "thumbnail": {
+                "@id": "https://img.toyobunko-lab.jp/iiif/kaken/18K00073/u-renja1579/image001.tif/full/200,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": null,
+                "width": null
+            }
+        },
+        {
+            "@id": "https://static.toyobunko-lab.jp/u-renja/iiif2/c8c637a361b69ea5c3b0224b44c856bd/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "法界次第初門3卷",
+            "metadata": [
+                {
+                    "label": "Title",
+                    "value": "法界次第初門3卷"
+                },
+                {
+                    "label": "Description",
+                    "value": [
+                        "通番: 1580",
+                        "from image no.: 1",
+                        "to image no.: 156"
+                    ]
+                },
+                {
+                    "label": "Identifier",
+                    "value": "c8c637a361b69ea5c3b0224b44c856bd"
+                },
+                {
+                    "label": "identifier",
+                    "value": "u-renja1580_0001_0156"
+                }
+            ],
+            "thumbnail": {
+                "@id": "https://img.toyobunko-lab.jp/iiif/kaken/18K00073/u-renja1580/image001.tif/full/200,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": null,
+                "width": null
+            }
+        },
+        {
+            "@id": "https://static.toyobunko-lab.jp/u-renja/iiif2/717fd438c119202ec1e2ea52d436d2f3/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "方等三昧行法1卷",
+            "metadata": [
+                {
+                    "label": "Title",
+                    "value": "方等三昧行法1卷"
+                },
+                {
+                    "label": "Description",
+                    "value": [
+                        "通番: 1581",
+                        "from image no.: 1",
+                        "to image no.: 25"
+                    ]
+                },
+                {
+                    "label": "Identifier",
+                    "value": "717fd438c119202ec1e2ea52d436d2f3"
+                },
+                {
+                    "label": "identifier",
+                    "value": "u-renja1581-1582_0001_0025"
+                }
+            ],
+            "thumbnail": {
+                "@id": "https://img.toyobunko-lab.jp/iiif/kaken/18K00073/u-renja1581-1582/image001.tif/full/200,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": null,
+                "width": null
+            }
+        },
+        {
+            "@id": "https://static.toyobunko-lab.jp/u-renja/iiif2/fd2a757952c780dd2f6fb5506f37c773/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "淨土十疑論1卷",
+            "metadata": [
+                {
+                    "label": "Title",
+                    "value": "淨土十疑論1卷"
+                },
+                {
+                    "label": "Description",
+                    "value": [
+                        "通番: 1582",
+                        "from image no.: 25",
+                        "to image no.: 45"
+                    ]
+                },
+                {
+                    "label": "Identifier",
+                    "value": "fd2a757952c780dd2f6fb5506f37c773"
+                },
+                {
+                    "label": "identifier",
+                    "value": "u-renja1581-1582_0025_0045"
+                }
+            ],
+            "thumbnail": {
+                "@id": "https://img.toyobunko-lab.jp/iiif/kaken/18K00073/u-renja1581-1582/image025.tif/full/200,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": null,
+                "width": null
+            }
+        },
+        {
+            "@id": "https://static.toyobunko-lab.jp/u-renja/iiif2/49512fd8bfca3c69e53606b0b2aec1d8/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "觀心論疏5卷",
+            "metadata": [
+                {
+                    "label": "Title",
+                    "value": "觀心論疏5卷"
+                },
+                {
+                    "label": "Description",
+                    "value": [
+                        "通番: 1583",
+                        "from image no.: 1",
+                        "to image no.: 130"
+                    ]
+                },
+                {
+                    "label": "Identifier",
+                    "value": "49512fd8bfca3c69e53606b0b2aec1d8"
+                },
+                {
+                    "label": "identifier",
+                    "value": "u-renja1583_0001_0130"
+                }
+            ],
+            "thumbnail": {
+                "@id": "https://img.toyobunko-lab.jp/iiif/kaken/18K00073/u-renja1583/image001.tif/full/200,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": null,
+                "width": null
+            }
+        },
+        {
+            "@id": "https://static.toyobunko-lab.jp/u-renja/iiif2/5188f81390839ec61d4572eac0a6e0db/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "無相大師行状1卷",
+            "metadata": [
+                {
+                    "label": "Title",
+                    "value": "無相大師行状1卷"
+                },
+                {
+                    "label": "Description",
+                    "value": [
+                        "通番: 1590",
+                        "from image no.: 1",
+                        "to image no.: 4"
+                    ]
+                },
+                {
+                    "label": "Identifier",
+                    "value": "5188f81390839ec61d4572eac0a6e0db"
+                },
+                {
+                    "label": "identifier",
+                    "value": "u-renja1590_0001_0004"
+                }
+            ],
+            "thumbnail": {
+                "@id": "https://img.toyobunko-lab.jp/iiif/kaken/18K00073/u-renja1590/image001.tif/full/200,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": null,
+                "width": null
+            }
+        },
+        {
+            "@id": "https://static.toyobunko-lab.jp/u-renja/iiif2/6560736978d294c7accf48ac3f7b4840/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "禪宗永嘉集1卷",
+            "metadata": [
+                {
+                    "label": "Title",
+                    "value": "禪宗永嘉集1卷"
+                },
+                {
+                    "label": "Description",
+                    "value": [
+                        "通番: 1590",
+                        "from image no.: 4",
+                        "to image no.: 49"
+                    ]
+                },
+                {
+                    "label": "Identifier",
+                    "value": "6560736978d294c7accf48ac3f7b4840"
+                },
+                {
+                    "label": "identifier",
+                    "value": "u-renja1590_0004_0049"
+                }
+            ],
+            "thumbnail": {
+                "@id": "https://img.toyobunko-lab.jp/iiif/kaken/18K00073/u-renja1590/image004.tif/full/200,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": null,
+                "width": null
+            }
+        },
+        {
+            "@id": "https://static.toyobunko-lab.jp/u-renja/iiif2/2e8d09dcc28bf3eb46d9a1c5c0d3ba36/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "永嘉證道歌1卷",
+            "metadata": [
+                {
+                    "label": "Title",
+                    "value": "永嘉證道歌1卷"
+                },
+                {
+                    "label": "Description",
+                    "value": [
+                        "通番: 1590",
+                        "from image no.: 49",
+                        "to image no.: 58"
+                    ]
+                },
+                {
+                    "label": "Identifier",
+                    "value": "2e8d09dcc28bf3eb46d9a1c5c0d3ba36"
+                },
+                {
+                    "label": "identifier",
+                    "value": "u-renja1590_0049_0058"
+                }
+            ],
+            "thumbnail": {
+                "@id": "https://img.toyobunko-lab.jp/iiif/kaken/18K00073/u-renja1590/image049.tif/full/200,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": null,
+                "width": null
+            }
+        },
+        {
+            "@id": "https://static.toyobunko-lab.jp/u-renja/iiif2/2805aea90ace288b6628ca5e096353d7/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "十不二門指要鈔2卷",
+            "metadata": [
+                {
+                    "label": "Title",
+                    "value": "十不二門指要鈔2卷"
+                },
+                {
+                    "label": "Description",
+                    "value": [
+                        "通番: 1591",
+                        "from image no.: 1",
+                        "to image no.: 60"
+                    ]
+                },
+                {
+                    "label": "Identifier",
+                    "value": "2805aea90ace288b6628ca5e096353d7"
+                },
+                {
+                    "label": "identifier",
+                    "value": "u-renja1591-1595_0001_0060"
+                }
+            ],
+            "thumbnail": {
+                "@id": "https://img.toyobunko-lab.jp/iiif/kaken/18K00073/u-renja1591-1595/image001.tif/full/200,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": null,
+                "width": null
+            }
+        },
+        {
+            "@id": "https://static.toyobunko-lab.jp/u-renja/iiif2/fbf4483f52287af0bd20a2b027f272da/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "金剛錍1卷坿科文",
+            "metadata": [
+                {
+                    "label": "Title",
+                    "value": "金剛錍1卷坿科文"
+                },
+                {
+                    "label": "Description",
+                    "value": [
+                        "通番: 1592",
+                        "from image no.: 60",
+                        "to image no.: 98"
+                    ]
+                },
+                {
+                    "label": "Identifier",
+                    "value": "fbf4483f52287af0bd20a2b027f272da"
+                },
+                {
+                    "label": "identifier",
+                    "value": "u-renja1591-1595_0060_0098"
+                }
+            ],
+            "thumbnail": {
+                "@id": "https://img.toyobunko-lab.jp/iiif/kaken/18K00073/u-renja1591-1595/image060.tif/full/200,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": null,
+                "width": null
+            }
+        },
+        {
+            "@id": "https://static.toyobunko-lab.jp/u-renja/iiif2/ea6384ffb0a03b4330a9c3a517cd2089/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "法智遺編觀心二百問1卷",
+            "metadata": [
+                {
+                    "label": "Title",
+                    "value": "法智遺編觀心二百問1卷"
+                },
+                {
+                    "label": "Description",
+                    "value": [
+                        "通番: 1593",
+                        "from image no.: 98",
+                        "to image no.: 123"
+                    ]
+                },
+                {
+                    "label": "Identifier",
+                    "value": "ea6384ffb0a03b4330a9c3a517cd2089"
+                },
+                {
+                    "label": "identifier",
+                    "value": "u-renja1591-1595_0098_0123"
+                }
+            ],
+            "thumbnail": {
+                "@id": "https://img.toyobunko-lab.jp/iiif/kaken/18K00073/u-renja1591-1595/image098.tif/full/200,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": null,
+                "width": null
+            }
+        },
+        {
+            "@id": "https://static.toyobunko-lab.jp/u-renja/iiif2/ea051e7ec2bd963700a9bd2b6cacb4be/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "天台傳佛心印記1卷",
+            "metadata": [
+                {
+                    "label": "Title",
+                    "value": "天台傳佛心印記1卷"
+                },
+                {
+                    "label": "Description",
+                    "value": [
+                        "通番: 1594",
+                        "from image no.: 123",
+                        "to image no.: 133"
+                    ]
+                },
+                {
+                    "label": "Identifier",
+                    "value": "ea051e7ec2bd963700a9bd2b6cacb4be"
+                },
+                {
+                    "label": "identifier",
+                    "value": "u-renja1591-1595_0123_0133"
+                }
+            ],
+            "thumbnail": {
+                "@id": "https://img.toyobunko-lab.jp/iiif/kaken/18K00073/u-renja1591-1595/image123.tif/full/200,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": null,
+                "width": null
+            }
+        },
+        {
+            "@id": "https://static.toyobunko-lab.jp/u-renja/iiif2/78ae67285d6068b3f7c01045274c2f93/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "淨土境觀要門1卷坿一心三觀1卷",
+            "metadata": [
+                {
+                    "label": "Title",
+                    "value": "淨土境觀要門1卷坿一心三觀1卷"
+                },
+                {
+                    "label": "Description",
+                    "value": [
+                        "通番: 1595",
+                        "from image no.: 133",
+                        "to image no.: 142"
+                    ]
+                },
+                {
+                    "label": "Identifier",
+                    "value": "78ae67285d6068b3f7c01045274c2f93"
+                },
+                {
+                    "label": "identifier",
+                    "value": "u-renja1591-1595_0133_0142"
+                }
+            ],
+            "thumbnail": {
+                "@id": "https://img.toyobunko-lab.jp/iiif/kaken/18K00073/u-renja1591-1595/image133.tif/full/200,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": null,
+                "width": null
+            }
+        },
+        {
+            "@id": "https://static.toyobunko-lab.jp/u-renja/iiif2/fbed7fcb5c154e2e4af3caebd734baea/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "大方廣佛華嚴經疏60卷",
+            "metadata": [
+                {
+                    "label": "Title",
+                    "value": "大方廣佛華嚴經疏60卷"
+                },
+                {
+                    "label": "Description",
+                    "value": [
+                        "通番: 1597",
+                        "from image no.: 1",
+                        "to image no.: 1679"
+                    ]
+                },
+                {
+                    "label": "Identifier",
+                    "value": "fbed7fcb5c154e2e4af3caebd734baea"
+                },
+                {
+                    "label": "identifier",
+                    "value": "u-renja1597_0001_1679"
+                }
+            ],
+            "thumbnail": {
+                "@id": "https://img.toyobunko-lab.jp/iiif/kaken/18K00073/u-renja1597/image0001.tif/full/200,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": null,
+                "width": null
+            }
+        },
+        {
+            "@id": "https://static.toyobunko-lab.jp/u-renja/iiif2/ff946bb14ee70fdf3303cb3f87d9b096/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "大方廣佛華嚴經隨疏演義鈔90卷",
+            "metadata": [
+                {
+                    "label": "Title",
+                    "value": "大方廣佛華嚴經隨疏演義鈔90卷"
+                },
+                {
+                    "label": "Description",
+                    "value": [
+                        "通番: 1598",
+                        "from image no.: 1",
+                        "to image no.: 2547"
+                    ]
+                },
+                {
+                    "label": "Identifier",
+                    "value": "ff946bb14ee70fdf3303cb3f87d9b096"
+                },
+                {
+                    "label": "identifier",
+                    "value": "u-renja1598_0001_2547"
+                }
+            ],
+            "thumbnail": {
+                "@id": "https://img.toyobunko-lab.jp/iiif/kaken/18K00073/u-renja1598/image0001.tif/full/200,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": null,
+                "width": null
+            }
+        },
+        {
+            "@id": "https://static.toyobunko-lab.jp/u-renja/iiif2/da59212b9060096472bf00a60ade80b1/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "華嚴一乘教義分齊章4卷",
+            "metadata": [
+                {
+                    "label": "Title",
+                    "value": "華嚴一乘教義分齊章4卷"
+                },
+                {
+                    "label": "Description",
+                    "value": [
+                        "通番: 1599",
+                        "from image no.: 1",
+                        "to image no.: 1"
+                    ]
+                },
+                {
+                    "label": "Identifier",
+                    "value": "da59212b9060096472bf00a60ade80b1"
+                },
+                {
+                    "label": "identifier",
+                    "value": "u-renja1599_0001_0001"
+                }
+            ],
+            "thumbnail": {
+                "@id": "https://img.toyobunko-lab.jp/iiif/kaken/18K00073/u-renja1599/image001.tif/full/200,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": null,
+                "width": null
+            }
+        },
+        {
+            "@id": "https://static.toyobunko-lab.jp/u-renja/iiif2/90815a058c16d3b4cc0784689959303d/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "華嚴經明法品内立三寶章2卷",
+            "metadata": [
+                {
+                    "label": "Title",
+                    "value": "華嚴經明法品内立三寶章2卷"
+                },
+                {
+                    "label": "Description",
+                    "value": [
+                        "通番: 1600",
+                        "from image no.: 1",
+                        "to image no.: 68"
+                    ]
+                },
+                {
+                    "label": "Identifier",
+                    "value": "90815a058c16d3b4cc0784689959303d"
+                },
+                {
+                    "label": "identifier",
+                    "value": "u-renja1600-1603_0001_0068"
+                }
+            ],
+            "thumbnail": {
+                "@id": "https://img.toyobunko-lab.jp/iiif/kaken/18K00073/u-renja1600-1603/image001.tif/full/200,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": null,
+                "width": null
+            }
+        },
+        {
+            "@id": "https://static.toyobunko-lab.jp/u-renja/iiif2/1f5bb52e9ae13b4af69a97fb6cce7c58/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "修華嚴奧旨妄盡還源觀1卷",
+            "metadata": [
+                {
+                    "label": "Title",
+                    "value": "修華嚴奧旨妄盡還源觀1卷"
+                },
+                {
+                    "label": "Description",
+                    "value": [
+                        "通番: 1601",
+                        "from image no.: 68",
+                        "to image no.: 70"
+                    ]
+                },
+                {
+                    "label": "Identifier",
+                    "value": "1f5bb52e9ae13b4af69a97fb6cce7c58"
+                },
+                {
+                    "label": "identifier",
+                    "value": "u-renja1600-1603_0068_0070"
+                }
+            ],
+            "thumbnail": {
+                "@id": "https://img.toyobunko-lab.jp/iiif/kaken/18K00073/u-renja1600-1603/image068.tif/full/200,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": null,
+                "width": null
+            }
+        },
+        {
+            "@id": "https://static.toyobunko-lab.jp/u-renja/iiif2/fc9248dd3aee25fff2aef2e6e674ce86/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "原人論1卷",
+            "metadata": [
+                {
+                    "label": "Title",
+                    "value": "原人論1卷"
+                },
+                {
+                    "label": "Description",
+                    "value": [
+                        "通番: 1602",
+                        "from image no.: 70",
+                        "to image no.: 83"
+                    ]
+                },
+                {
+                    "label": "Identifier",
+                    "value": "fc9248dd3aee25fff2aef2e6e674ce86"
+                },
+                {
+                    "label": "identifier",
+                    "value": "u-renja1600-1603_0070_0083"
+                }
+            ],
+            "thumbnail": {
+                "@id": "https://img.toyobunko-lab.jp/iiif/kaken/18K00073/u-renja1600-1603/image070.tif/full/200,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": null,
+                "width": null
+            }
+        },
+        {
+            "@id": "https://static.toyobunko-lab.jp/u-renja/iiif2/c30d0dae81f1afc6fcd55cf8705cf455/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "華嚴經旨歸1卷",
+            "metadata": [
+                {
+                    "label": "Title",
+                    "value": "華嚴經旨歸1卷"
+                },
+                {
+                    "label": "Description",
+                    "value": [
+                        "通番: 1603",
+                        "from image no.: 83",
+                        "to image no.: 110"
+                    ]
+                },
+                {
+                    "label": "Identifier",
+                    "value": "c30d0dae81f1afc6fcd55cf8705cf455"
+                },
+                {
+                    "label": "identifier",
+                    "value": "u-renja1600-1603_0083_0110"
+                }
+            ],
+            "thumbnail": {
+                "@id": "https://img.toyobunko-lab.jp/iiif/kaken/18K00073/u-renja1600-1603/image083.tif/full/200,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": null,
+                "width": null
+            }
+        },
+        {
+            "@id": "https://static.toyobunko-lab.jp/u-renja/iiif2/9060c6058aadea9e71bd0ecd72ffd52f/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "注華嚴法界觀門1卷",
+            "metadata": [
+                {
+                    "label": "Title",
+                    "value": "注華嚴法界觀門1卷"
+                },
+                {
+                    "label": "Description",
+                    "value": [
+                        "通番: 1604",
+                        "from image no.: 1",
+                        "to image no.: 27"
+                    ]
+                },
+                {
+                    "label": "Identifier",
+                    "value": "9060c6058aadea9e71bd0ecd72ffd52f"
+                },
+                {
+                    "label": "identifier",
+                    "value": "u-renja1604-1605_0001_0027"
+                }
+            ],
+            "thumbnail": {
+                "@id": "https://img.toyobunko-lab.jp/iiif/kaken/18K00073/u-renja1604-1605/image001.tif/full/200,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": null,
+                "width": null
+            }
+        },
+        {
+            "@id": "https://static.toyobunko-lab.jp/u-renja/iiif2/8cec4c92ef9823e16f3c1f88e6547fb3/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "佛遺教經論疏節要1卷",
+            "metadata": [
+                {
+                    "label": "Title",
+                    "value": "佛遺教經論疏節要1卷"
+                },
+                {
+                    "label": "Description",
+                    "value": [
+                        "通番: 1605",
+                        "from image no.: 27",
+                        "to image no.: 92"
+                    ]
+                },
+                {
+                    "label": "Identifier",
+                    "value": "8cec4c92ef9823e16f3c1f88e6547fb3"
+                },
+                {
+                    "label": "identifier",
+                    "value": "u-renja1604-1605_0027_0092"
+                }
+            ],
+            "thumbnail": {
+                "@id": "https://img.toyobunko-lab.jp/iiif/kaken/18K00073/u-renja1604-1605/image027.tif/full/200,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": null,
+                "width": null
+            }
+        },
+        {
+            "@id": "https://static.toyobunko-lab.jp/u-renja/iiif2/abb9a890e5c84f9ec434a6f22e433e67/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "華嚴法界玄鏡2卷",
+            "metadata": [
+                {
+                    "label": "Title",
+                    "value": "華嚴法界玄鏡2卷"
+                },
+                {
+                    "label": "Description",
+                    "value": [
+                        "通番: 1606",
+                        "from image no.: 1",
+                        "to image no.: 42"
+                    ]
+                },
+                {
+                    "label": "Identifier",
+                    "value": "abb9a890e5c84f9ec434a6f22e433e67"
+                },
+                {
+                    "label": "identifier",
+                    "value": "u-renja1606-1608_0001_0042"
+                }
+            ],
+            "thumbnail": {
+                "@id": "https://img.toyobunko-lab.jp/iiif/kaken/18K00073/u-renja1606-1608/image001.tif/full/200,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": null,
+                "width": null
+            }
+        },
+        {
+            "@id": "https://static.toyobunko-lab.jp/u-renja/iiif2/0849f8f86c08d8d59d5999ce3be2a07c/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "般若波羅蜜多心經略疏1卷",
+            "metadata": [
+                {
+                    "label": "Title",
+                    "value": "般若波羅蜜多心經略疏1卷"
+                },
+                {
+                    "label": "Description",
+                    "value": [
+                        "通番: 1607",
+                        "from image no.: 42",
+                        "to image no.: 55"
+                    ]
+                },
+                {
+                    "label": "Identifier",
+                    "value": "0849f8f86c08d8d59d5999ce3be2a07c"
+                },
+                {
+                    "label": "identifier",
+                    "value": "u-renja1606-1608_0042_0055"
+                }
+            ],
+            "thumbnail": {
+                "@id": "https://img.toyobunko-lab.jp/iiif/kaken/18K00073/u-renja1606-1608/image042.tif/full/200,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": null,
+                "width": null
+            }
+        },
+        {
+            "@id": "https://static.toyobunko-lab.jp/u-renja/iiif2/24fe9f015470e01761d7ac67909406df/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "般若心經略疏連珠記2卷",
+            "metadata": [
+                {
+                    "label": "Title",
+                    "value": "般若心經略疏連珠記2卷"
+                },
+                {
+                    "label": "Description",
+                    "value": [
+                        "通番: 1608",
+                        "from image no.: 55",
+                        "to image no.: 108"
+                    ]
+                },
+                {
+                    "label": "Identifier",
+                    "value": "24fe9f015470e01761d7ac67909406df"
+                },
+                {
+                    "label": "identifier",
+                    "value": "u-renja1606-1608_0055_0108"
+                }
+            ],
+            "thumbnail": {
+                "@id": "https://img.toyobunko-lab.jp/iiif/kaken/18K00073/u-renja1606-1608/image055.tif/full/200,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": null,
+                "width": null
+            }
+        },
+        {
+            "@id": "https://static.toyobunko-lab.jp/u-renja/iiif2/3e6037d861fa3c6c23ff056395eb4a38/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "佛説盂蘭盆經2卷",
+            "metadata": [
+                {
+                    "label": "Title",
+                    "value": "佛説盂蘭盆經2卷"
+                },
+                {
+                    "label": "Description",
+                    "value": [
+                        "通番: 1609",
+                        "from image no.: 1",
+                        "to image no.: 36"
+                    ]
+                },
+                {
+                    "label": "Identifier",
+                    "value": "3e6037d861fa3c6c23ff056395eb4a38"
+                },
+                {
+                    "label": "identifier",
+                    "value": "u-renja1609-1611_0001_0036"
+                }
+            ],
+            "thumbnail": {
+                "@id": "https://img.toyobunko-lab.jp/iiif/kaken/18K00073/u-renja1609-1611/image001.tif/full/200,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": null,
+                "width": null
+            }
+        },
+        {
+            "@id": "https://static.toyobunko-lab.jp/u-renja/iiif2/9f5212b52211dff7e3b02bfe69c6f3cb/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "金師子章雲間類解1卷",
+            "metadata": [
+                {
+                    "label": "Title",
+                    "value": "金師子章雲間類解1卷"
+                },
+                {
+                    "label": "Description",
+                    "value": [
+                        "通番: 1610",
+                        "from image no.: 36",
+                        "to image no.: 55"
+                    ]
+                },
+                {
+                    "label": "Identifier",
+                    "value": "9f5212b52211dff7e3b02bfe69c6f3cb"
+                },
+                {
+                    "label": "identifier",
+                    "value": "u-renja1609-1611_0036_0055"
+                }
+            ],
+            "thumbnail": {
+                "@id": "https://img.toyobunko-lab.jp/iiif/kaken/18K00073/u-renja1609-1611/image036.tif/full/200,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": null,
+                "width": null
+            }
+        },
+        {
+            "@id": "https://static.toyobunko-lab.jp/u-renja/iiif2/2ca39f61ed6afbb596f742e3d66250d2/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "佛説阿彌陀經疏1卷",
+            "metadata": [
+                {
+                    "label": "Title",
+                    "value": "佛説阿彌陀經疏1卷"
+                },
+                {
+                    "label": "Description",
+                    "value": [
+                        "通番: 1611",
+                        "from image no.: 55",
+                        "to image no.: 66"
+                    ]
+                },
+                {
+                    "label": "Identifier",
+                    "value": "2ca39f61ed6afbb596f742e3d66250d2"
+                },
+                {
+                    "label": "identifier",
+                    "value": "u-renja1609-1611_0055_0066"
+                }
+            ],
+            "thumbnail": {
+                "@id": "https://img.toyobunko-lab.jp/iiif/kaken/18K00073/u-renja1609-1611/image055.tif/full/200,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": null,
+                "width": null
+            }
+        },
+        {
+            "@id": "https://static.toyobunko-lab.jp/u-renja/iiif2/c8f764ff2818e3c531604797570f33b3/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "楞伽阿跋多羅寶經註解4卷",
+            "metadata": [
+                {
+                    "label": "Title",
+                    "value": "楞伽阿跋多羅寶經註解4卷"
+                },
+                {
+                    "label": "Description",
+                    "value": [
+                        "通番: 1621",
+                        "from image no.: 1",
+                        "to image no.: 225"
+                    ]
+                },
+                {
+                    "label": "Identifier",
+                    "value": "c8f764ff2818e3c531604797570f33b3"
+                },
+                {
+                    "label": "identifier",
+                    "value": "u-renja1621_0001_0225"
+                }
+            ],
+            "thumbnail": {
+                "@id": "https://img.toyobunko-lab.jp/iiif/kaken/18K00073/u-renja1621/image001.tif/full/200,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": null,
+                "width": null
+            }
+        },
+        {
+            "@id": "https://static.toyobunko-lab.jp/u-renja/iiif2/3dafed5dc111efa58df51702e18c2bde/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "般若波羅蜜多心經註解1卷",
+            "metadata": [
+                {
+                    "label": "Title",
+                    "value": "般若波羅蜜多心經註解1卷"
+                },
+                {
+                    "label": "Description",
+                    "value": [
+                        "通番: 1622",
+                        "from image no.: 1",
+                        "to image no.: 8"
+                    ]
+                },
+                {
+                    "label": "Identifier",
+                    "value": "3dafed5dc111efa58df51702e18c2bde"
+                },
+                {
+                    "label": "identifier",
+                    "value": "u-renja1622-1623_0001_0008"
+                }
+            ],
+            "thumbnail": {
+                "@id": "https://img.toyobunko-lab.jp/iiif/kaken/18K00073/u-renja1622-1623/image001.tif/full/200,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": null,
+                "width": null
+            }
+        },
+        {
+            "@id": "https://static.toyobunko-lab.jp/u-renja/iiif2/04ede552de0f4947b50592853a22842c/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "金剛般若波羅蜜經註解1卷",
+            "metadata": [
+                {
+                    "label": "Title",
+                    "value": "金剛般若波羅蜜經註解1卷"
+                },
+                {
+                    "label": "Description",
+                    "value": [
+                        "通番: 1623",
+                        "from image no.: 8",
+                        "to image no.: 38"
+                    ]
+                },
+                {
+                    "label": "Identifier",
+                    "value": "04ede552de0f4947b50592853a22842c"
+                },
+                {
+                    "label": "identifier",
+                    "value": "u-renja1622-1623_0008_0038"
+                }
+            ],
+            "thumbnail": {
+                "@id": "https://img.toyobunko-lab.jp/iiif/kaken/18K00073/u-renja1622-1623/image008.tif/full/200,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": null,
+                "width": null
+            }
+        },
+        {
+            "@id": "https://static.toyobunko-lab.jp/u-renja/iiif2/5c5873cfbdcc294394d4b8827b4a2c7d/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "起信論疏筆削記20卷",
+            "metadata": [
+                {
+                    "label": "Title",
+                    "value": "起信論疏筆削記20卷"
+                },
+                {
+                    "label": "Description",
+                    "value": [
+                        "通番: 1635",
+                        "from image no.: 1",
+                        "to image no.: 420"
+                    ]
+                },
+                {
+                    "label": "Identifier",
+                    "value": "5c5873cfbdcc294394d4b8827b4a2c7d"
+                },
+                {
+                    "label": "identifier",
+                    "value": "u-renja1635_0001_0420"
+                }
+            ],
+            "thumbnail": {
+                "@id": "https://img.toyobunko-lab.jp/iiif/kaken/18K00073/u-renja1635/image001.tif/full/200,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": null,
+                "width": null
+            }
+        },
+        {
+            "@id": "https://static.toyobunko-lab.jp/u-renja/iiif2/1e2143ca24cdd44ea34f2d409bc85dcb/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "肇論新疏3卷",
+            "metadata": [
+                {
+                    "label": "Title",
+                    "value": "肇論新疏3卷"
+                },
+                {
+                    "label": "Description",
+                    "value": [
+                        "通番: 1636",
+                        "from image no.: 1",
+                        "to image no.: 187"
+                    ]
+                },
+                {
+                    "label": "Identifier",
+                    "value": "1e2143ca24cdd44ea34f2d409bc85dcb"
+                },
+                {
+                    "label": "identifier",
+                    "value": "u-renja1636_0001_0187"
+                }
+            ],
+            "thumbnail": {
+                "@id": "https://img.toyobunko-lab.jp/iiif/kaken/18K00073/u-renja1636/image001.tif/full/200,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": null,
+                "width": null
+            }
+        },
+        {
+            "@id": "https://static.toyobunko-lab.jp/u-renja/iiif2/e3c6ea854599d0f9bdcf9379dcbb081a/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "大方廣圓覺修多羅了義經略疏註2卷",
+            "metadata": [
+                {
+                    "label": "Title",
+                    "value": "大方廣圓覺修多羅了義經略疏註2卷"
+                },
+                {
+                    "label": "Description",
+                    "value": [
+                        "通番: 1639",
+                        "from image no.: 1",
+                        "to image no.: 121"
+                    ]
+                },
+                {
+                    "label": "Identifier",
+                    "value": "e3c6ea854599d0f9bdcf9379dcbb081a"
+                },
+                {
+                    "label": "identifier",
+                    "value": "u-renja1639_0001_0121"
+                }
+            ],
+            "thumbnail": {
+                "@id": "https://img.toyobunko-lab.jp/iiif/kaken/18K00073/u-renja1639/image001.tif/full/200,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": null,
+                "width": null
+            }
+        },
+        {
+            "@id": "https://static.toyobunko-lab.jp/u-renja/iiif2/1514b8fda6dee951e2c076e11bf168a3/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "金剛般若經疏論纂要2卷",
+            "metadata": [
+                {
+                    "label": "Title",
+                    "value": "金剛般若經疏論纂要2卷"
+                },
+                {
+                    "label": "Description",
+                    "value": [
+                        "通番: 1640",
+                        "from image no.: 1",
+                        "to image no.: 66"
+                    ]
+                },
+                {
+                    "label": "Identifier",
+                    "value": "1514b8fda6dee951e2c076e11bf168a3"
+                },
+                {
+                    "label": "identifier",
+                    "value": "u-renja1640-1641_0001_0066"
+                }
+            ],
+            "thumbnail": {
+                "@id": "https://img.toyobunko-lab.jp/iiif/kaken/18K00073/u-renja1640-1641/image001.tif/full/200,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": null,
+                "width": null
+            }
+        },
+        {
+            "@id": "https://static.toyobunko-lab.jp/u-renja/iiif2/97d9bceff189191bb2fa150caebb613d/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "金剛經纂要刊定記7卷",
+            "metadata": [
+                {
+                    "label": "Title",
+                    "value": "金剛經纂要刊定記7卷"
+                },
+                {
+                    "label": "Description",
+                    "value": [
+                        "通番: 1641",
+                        "from image no.: 66",
+                        "to image no.: 287"
+                    ]
+                },
+                {
+                    "label": "Identifier",
+                    "value": "97d9bceff189191bb2fa150caebb613d"
+                },
+                {
+                    "label": "identifier",
+                    "value": "u-renja1640-1641_0066_0287"
+                }
+            ],
+            "thumbnail": {
+                "@id": "https://img.toyobunko-lab.jp/iiif/kaken/18K00073/u-renja1640-1641/image066.tif/full/200,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": null,
+                "width": null
+            }
+        },
+        {
+            "@id": "https://static.toyobunko-lab.jp/u-renja/iiif2/477e6508fdca4c25acdc0be2615c3d2c/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "佛祖歴代通載22卷目録1卷",
+            "metadata": [
+                {
+                    "label": "Title",
+                    "value": "佛祖歴代通載22卷目録1卷"
+                },
+                {
+                    "label": "Description",
+                    "value": [
+                        "通番: 1647",
+                        "from image no.: 1",
+                        "to image no.: 957"
+                    ]
+                },
+                {
+                    "label": "Identifier",
+                    "value": "477e6508fdca4c25acdc0be2615c3d2c"
+                },
+                {
+                    "label": "identifier",
+                    "value": "u-renja1647_0001_0957"
+                }
+            ],
+            "thumbnail": {
+                "@id": "https://img.toyobunko-lab.jp/iiif/kaken/18K00073/u-renja1647/image001.tif/full/200,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": null,
+                "width": null
+            }
+        },
+        {
+            "@id": "https://static.toyobunko-lab.jp/u-renja/iiif2/dbbd2e040a42c2e76fb2d485908a5b55/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "勅脩百丈淸規8卷",
+            "metadata": [
+                {
+                    "label": "Title",
+                    "value": "勅脩百丈淸規8卷"
+                },
+                {
+                    "label": "Description",
+                    "value": [
+                        "通番: 1652",
+                        "from image no.: 1",
+                        "to image no.: 91"
+                    ]
+                },
+                {
+                    "label": "Identifier",
+                    "value": "dbbd2e040a42c2e76fb2d485908a5b55"
+                },
+                {
+                    "label": "identifier",
+                    "value": "u-renja1652_0001_0091"
+                }
+            ],
+            "thumbnail": {
+                "@id": "https://img.toyobunko-lab.jp/iiif/kaken/18K00073/u-renja1652/image001.tif/full/200,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": null,
+                "width": null
+            }
+        },
+        {
+            "@id": "https://static.toyobunko-lab.jp/u-renja/iiif2/966eee8b088c15ab27b03c8fff7116ce/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "禪源諸詮集都序2卷",
+            "metadata": [
+                {
+                    "label": "Title",
+                    "value": "禪源諸詮集都序2卷"
+                },
+                {
+                    "label": "Description",
+                    "value": [
+                        "通番: 1656",
+                        "from image no.: 1",
+                        "to image no.: 61"
+                    ]
+                },
+                {
+                    "label": "Identifier",
+                    "value": "966eee8b088c15ab27b03c8fff7116ce"
+                },
+                {
+                    "label": "identifier",
+                    "value": "u-renja1656-1658_0001_0061"
+                }
+            ],
+            "thumbnail": {
+                "@id": "https://img.toyobunko-lab.jp/iiif/kaken/18K00073/u-renja1656-1658/image001.tif/full/200,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": null,
+                "width": null
+            }
+        },
+        {
+            "@id": "https://static.toyobunko-lab.jp/u-renja/iiif2/2fc24172ba689400646b60edde585b8d/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "八識規矩補註2卷",
+            "metadata": [
+                {
+                    "label": "Title",
+                    "value": "八識規矩補註2卷"
+                },
+                {
+                    "label": "Description",
+                    "value": [
+                        "通番: 1657",
+                        "from image no.: 62",
+                        "to image no.: 99"
+                    ]
+                },
+                {
+                    "label": "Identifier",
+                    "value": "2fc24172ba689400646b60edde585b8d"
+                },
+                {
+                    "label": "identifier",
+                    "value": "u-renja1656-1658_0062_0099"
+                }
+            ],
+            "thumbnail": {
+                "@id": "https://img.toyobunko-lab.jp/iiif/kaken/18K00073/u-renja1656-1658/image062.tif/full/200,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": null,
+                "width": null
+            }
+        },
+        {
+            "@id": "https://static.toyobunko-lab.jp/u-renja/iiif2/bc508c640a6702a2bf27c02453ae8b6d/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "大乘百法明門論2卷坿科1卷",
+            "metadata": [
+                {
+                    "label": "Title",
+                    "value": "大乘百法明門論2卷坿科1卷"
+                },
+                {
+                    "label": "Description",
+                    "value": [
+                        "通番: 1658",
+                        "from image no.: 99",
+                        "to image no.: 129"
+                    ]
+                },
+                {
+                    "label": "Identifier",
+                    "value": "bc508c640a6702a2bf27c02453ae8b6d"
+                },
+                {
+                    "label": "identifier",
+                    "value": "u-renja1656-1658_0099_0129"
+                }
+            ],
+            "thumbnail": {
+                "@id": "https://img.toyobunko-lab.jp/iiif/kaken/18K00073/u-renja1656-1658/image099.tif/full/200,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": null,
+                "width": null
+            }
+        },
+        {
+            "@id": "https://static.toyobunko-lab.jp/u-renja/iiif2/ff2c6ec83284bd32c53351c5d6eba617/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "廬山蓮宗寶鑑10卷",
+            "metadata": [
+                {
+                    "label": "Title",
+                    "value": "廬山蓮宗寶鑑10卷"
+                },
+                {
+                    "label": "Description",
+                    "value": [
+                        "通番: 1662",
+                        "from image no.: 1",
+                        "to image no.: 194"
+                    ]
+                },
+                {
+                    "label": "Identifier",
+                    "value": "ff2c6ec83284bd32c53351c5d6eba617"
+                },
+                {
+                    "label": "identifier",
+                    "value": "u-renja1662_0001_0194"
+                }
+            ],
+            "thumbnail": {
+                "@id": "https://img.toyobunko-lab.jp/iiif/kaken/18K00073/u-renja1662/image001.tif/full/200,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": null,
+                "width": null
+            }
+        },
+        {
+            "@id": "https://static.toyobunko-lab.jp/u-renja/iiif2/1c13ac369691cffa545abf67d991a2f2/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "永明智覺禪師唯心訣1卷",
+            "metadata": [
+                {
+                    "label": "Title",
+                    "value": "永明智覺禪師唯心訣1卷"
+                },
+                {
+                    "label": "Description",
+                    "value": [
+                        "通番: 1663",
+                        "from image no.: 1",
+                        "to image no.: 15"
+                    ]
+                },
+                {
+                    "label": "Identifier",
+                    "value": "1c13ac369691cffa545abf67d991a2f2"
+                },
+                {
+                    "label": "identifier",
+                    "value": "u-renja1663-1668_0001_0015"
+                }
+            ],
+            "thumbnail": {
+                "@id": "https://img.toyobunko-lab.jp/iiif/kaken/18K00073/u-renja1663-1668/image001.tif/full/200,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": null,
+                "width": null
+            }
+        },
+        {
+            "@id": "https://static.toyobunko-lab.jp/u-renja/iiif2/6bd5ea07e5141a211ff648a9a21686e6/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "定慧相資歌1卷",
+            "metadata": [
+                {
+                    "label": "Title",
+                    "value": "定慧相資歌1卷"
+                },
+                {
+                    "label": "Description",
+                    "value": [
+                        "通番: 1664",
+                        "from image no.: 15",
+                        "to image no.: 17"
+                    ]
+                },
+                {
+                    "label": "Identifier",
+                    "value": "6bd5ea07e5141a211ff648a9a21686e6"
+                },
+                {
+                    "label": "identifier",
+                    "value": "u-renja1663-1668_0015_0017"
+                }
+            ],
+            "thumbnail": {
+                "@id": "https://img.toyobunko-lab.jp/iiif/kaken/18K00073/u-renja1663-1668/image015.tif/full/200,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": null,
+                "width": null
+            }
+        },
+        {
+            "@id": "https://static.toyobunko-lab.jp/u-renja/iiif2/a91ff816b7aac769059e6f828c645f95/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "警世1卷",
+            "metadata": [
+                {
+                    "label": "Title",
+                    "value": "警世1卷"
+                },
+                {
+                    "label": "Description",
+                    "value": [
+                        "通番: 1665",
+                        "from image no.: 17",
+                        "to image no.: 19"
+                    ]
+                },
+                {
+                    "label": "Identifier",
+                    "value": "a91ff816b7aac769059e6f828c645f95"
+                },
+                {
+                    "label": "identifier",
+                    "value": "u-renja1663-1668_0017_0019"
+                }
+            ],
+            "thumbnail": {
+                "@id": "https://img.toyobunko-lab.jp/iiif/kaken/18K00073/u-renja1663-1668/image017.tif/full/200,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": null,
+                "width": null
+            }
+        },
+        {
+            "@id": "https://static.toyobunko-lab.jp/u-renja/iiif2/2ab03da7a9749110fd2415625f1c4601/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "宗鏡録序1卷",
+            "metadata": [
+                {
+                    "label": "Title",
+                    "value": "宗鏡録序1卷"
+                },
+                {
+                    "label": "Description",
+                    "value": [
+                        "通番: 1666",
+                        "from image no.: 19",
+                        "to image no.: 26"
+                    ]
+                },
+                {
+                    "label": "Identifier",
+                    "value": "2ab03da7a9749110fd2415625f1c4601"
+                },
+                {
+                    "label": "identifier",
+                    "value": "u-renja1663-1668_0019_0026"
+                }
+            ],
+            "thumbnail": {
+                "@id": "https://img.toyobunko-lab.jp/iiif/kaken/18K00073/u-renja1663-1668/image019.tif/full/200,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": null,
+                "width": null
+            }
+        },
+        {
+            "@id": "https://static.toyobunko-lab.jp/u-renja/iiif2/f849ef1bfce7818164b2fcf9ba63b038/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "禪宗決疑集1卷",
+            "metadata": [
+                {
+                    "label": "Title",
+                    "value": "禪宗決疑集1卷"
+                },
+                {
+                    "label": "Description",
+                    "value": [
+                        "通番: 1667",
+                        "from image no.: 26",
+                        "to image no.: 52"
+                    ]
+                },
+                {
+                    "label": "Identifier",
+                    "value": "f849ef1bfce7818164b2fcf9ba63b038"
+                },
+                {
+                    "label": "identifier",
+                    "value": "u-renja1663-1668_0026_0052"
+                }
+            ],
+            "thumbnail": {
+                "@id": "https://img.toyobunko-lab.jp/iiif/kaken/18K00073/u-renja1663-1668/image026.tif/full/200,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": null,
+                "width": null
+            }
+        },
+        {
+            "@id": "https://static.toyobunko-lab.jp/u-renja/iiif2/86ff53dd86251352843b514eb29b4608/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "黄檗山斷際禪師傳心法要1卷",
+            "metadata": [
+                {
+                    "label": "Title",
+                    "value": "黄檗山斷際禪師傳心法要1卷"
+                },
+                {
+                    "label": "Description",
+                    "value": [
+                        "通番: 1668",
+                        "from image no.: 52",
+                        "to image no.: 78"
+                    ]
+                },
+                {
+                    "label": "Identifier",
+                    "value": "86ff53dd86251352843b514eb29b4608"
+                },
+                {
+                    "label": "identifier",
+                    "value": "u-renja1663-1668_0052_0078"
+                }
+            ],
+            "thumbnail": {
+                "@id": "https://img.toyobunko-lab.jp/iiif/kaken/18K00073/u-renja1663-1668/image052.tif/full/200,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": null,
+                "width": null
+            }
+        },
+        {
+            "@id": "https://static.toyobunko-lab.jp/u-renja/iiif2/9b2d53db9b1b64a66fca9f1207656658/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "黄檗山斷際禪師宛陵録1卷",
+            "metadata": [
+                {
+                    "label": "Title",
+                    "value": "黄檗山斷際禪師宛陵録1卷"
+                },
+                {
+                    "label": "Description",
+                    "value": [
+                        "通番: 1668",
+                        "from image no.: 78",
+                        "to image no.: 97"
+                    ]
+                },
+                {
+                    "label": "Identifier",
+                    "value": "9b2d53db9b1b64a66fca9f1207656658"
+                },
+                {
+                    "label": "identifier",
+                    "value": "u-renja1663-1668_0078_0097"
+                }
+            ],
+            "thumbnail": {
+                "@id": "https://img.toyobunko-lab.jp/iiif/kaken/18K00073/u-renja1663-1668/image078.tif/full/200,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": null,
+                "width": null
+            }
+        },
+        {
+            "@id": "https://static.toyobunko-lab.jp/u-renja/iiif2/c8ce1dad9891afa00a59e60a2a273acf/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "華嚴七字經題法界觀三十門頌2卷",
+            "metadata": [
+                {
+                    "label": "Title",
+                    "value": "華嚴七字經題法界觀三十門頌2卷"
+                },
+                {
+                    "label": "Description",
+                    "value": [
+                        "通番: 1670",
+                        "from image no.: 1",
+                        "to image no.: 74"
+                    ]
+                },
+                {
+                    "label": "Identifier",
+                    "value": "c8ce1dad9891afa00a59e60a2a273acf"
+                },
+                {
+                    "label": "identifier",
+                    "value": "u-renja1670_0001_0074"
+                }
+            ],
+            "thumbnail": {
+                "@id": "https://img.toyobunko-lab.jp/iiif/kaken/18K00073/u-renja1670/image001.tif/full/200,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": null,
+                "width": null
+            }
+        },
+        {
+            "@id": "https://static.toyobunko-lab.jp/u-renja/iiif2/a3a55efcb22e2a2c3b438feab7a790cd/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "續傳燈録36卷",
+            "metadata": [
+                {
+                    "label": "Title",
+                    "value": "續傳燈録36卷"
+                },
+                {
+                    "label": "Description",
+                    "value": [
+                        "通番: 1672",
+                        "from image no.: 1",
+                        "to image no.: 962"
+                    ]
+                },
+                {
+                    "label": "Identifier",
+                    "value": "a3a55efcb22e2a2c3b438feab7a790cd"
+                },
+                {
+                    "label": "identifier",
+                    "value": "u-renja1672_0001_0962"
+                }
+            ],
+            "thumbnail": {
+                "@id": "https://img.toyobunko-lab.jp/iiif/kaken/18K00073/u-renja1672/image001.tif/full/200,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": null,
+                "width": null
+            }
+        },
+        {
+            "@id": "https://static.toyobunko-lab.jp/u-renja/iiif2/70b38407c8576d341b41f570e216d444/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "古尊宿語録48卷　(卷4-5)",
+            "metadata": [
+                {
+                    "label": "Title",
+                    "value": "古尊宿語録48卷　(卷4-5)"
+                },
+                {
+                    "label": "Description",
+                    "value": [
+                        "通番: 1673",
+                        "from image no.: 1",
+                        "to image no.: 47"
+                    ]
+                },
+                {
+                    "label": "Identifier",
+                    "value": "70b38407c8576d341b41f570e216d444"
+                },
+                {
+                    "label": "identifier",
+                    "value": "u-renja1673(4-5)_0001_0047"
+                }
+            ],
+            "thumbnail": {
+                "@id": "https://img.toyobunko-lab.jp/iiif/kaken/18K00073/u-renja1673(4-5)/image001.tif/full/200,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": null,
+                "width": null
+            }
+        },
+        {
+            "@id": "https://static.toyobunko-lab.jp/u-renja/iiif2/0533b5eb65e23c5602e26076b2ffda90/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "古尊宿語録48卷　(卷15-18)",
+            "metadata": [
+                {
+                    "label": "Title",
+                    "value": "古尊宿語録48卷　(卷15-18)"
+                },
+                {
+                    "label": "Description",
+                    "value": [
+                        "通番: 1673",
+                        "from image no.: 1",
+                        "to image no.: 121"
+                    ]
+                },
+                {
+                    "label": "Identifier",
+                    "value": "0533b5eb65e23c5602e26076b2ffda90"
+                },
+                {
+                    "label": "identifier",
+                    "value": "u-renja1673(15-22)_0001_0121"
+                }
+            ],
+            "thumbnail": {
+                "@id": "https://img.toyobunko-lab.jp/iiif/kaken/18K00073/u-renja1673(15-22)/image001.tif/full/200,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": null,
+                "width": null
+            }
+        },
+        {
+            "@id": "https://static.toyobunko-lab.jp/u-renja/iiif2/4d1e1e326401993307284872e34843e5/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "古尊宿語録48卷　(卷19)",
+            "metadata": [
+                {
+                    "label": "Title",
+                    "value": "古尊宿語録48卷　(卷19)"
+                },
+                {
+                    "label": "Description",
+                    "value": [
+                        "通番: 1673",
+                        "from image no.: 121",
+                        "to image no.: 144"
+                    ]
+                },
+                {
+                    "label": "Identifier",
+                    "value": "4d1e1e326401993307284872e34843e5"
+                },
+                {
+                    "label": "identifier",
+                    "value": "u-renja1673(15-22)_0121_0144"
+                }
+            ],
+            "thumbnail": {
+                "@id": "https://img.toyobunko-lab.jp/iiif/kaken/18K00073/u-renja1673(15-22)/image121.tif/full/200,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": null,
+                "width": null
+            }
+        },
+        {
+            "@id": "https://static.toyobunko-lab.jp/u-renja/iiif2/7ebf96111e4c22363ef9dc9b591ac1cd/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "古尊宿語録48卷　(卷20-22)",
+            "metadata": [
+                {
+                    "label": "Title",
+                    "value": "古尊宿語録48卷　(卷20-22)"
+                },
+                {
+                    "label": "Description",
+                    "value": [
+                        "通番: 1673",
+                        "from image no.: 144",
+                        "to image no.: 225"
+                    ]
+                },
+                {
+                    "label": "Identifier",
+                    "value": "7ebf96111e4c22363ef9dc9b591ac1cd"
+                },
+                {
+                    "label": "identifier",
+                    "value": "u-renja1673(15-22)_0144_0225"
+                }
+            ],
+            "thumbnail": {
+                "@id": "https://img.toyobunko-lab.jp/iiif/kaken/18K00073/u-renja1673(15-22)/image144.tif/full/200,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": null,
+                "width": null
+            }
+        },
+        {
+            "@id": "https://static.toyobunko-lab.jp/u-renja/iiif2/b2ede148fae7e6c98bdd315a1a6b3260/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "佛祖統紀54卷",
+            "metadata": [
+                {
+                    "label": "Title",
+                    "value": "佛祖統紀54卷"
+                },
+                {
+                    "label": "Description",
+                    "value": [
+                        "通番: 1675",
+                        "from image no.: 1",
+                        "to image no.: 1201"
+                    ]
+                },
+                {
+                    "label": "Identifier",
+                    "value": "b2ede148fae7e6c98bdd315a1a6b3260"
+                },
+                {
+                    "label": "identifier",
+                    "value": "u-renja1675_0001_1201"
+                }
+            ],
+            "thumbnail": {
+                "@id": "https://img.toyobunko-lab.jp/iiif/kaken/18K00073/u-renja1675/image0001.tif/full/200,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": null,
+                "width": null
+            }
+        }
+    ],
+    "vhint": "use-thumb"
+}

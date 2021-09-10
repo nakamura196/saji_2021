@@ -1,0 +1,9 @@
+{
+    "@context": [
+        {
+            "data": "https://nakamura196.github.io/sat/data",
+            "ex": "http://example.org/",
+            "keiten": "https://nakamura196.github.io/sat/経典番号/"
+        }
+    ]
+}

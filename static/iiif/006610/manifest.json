@@ -1,0 +1,243 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://static.toyobunko-lab.jp/u-renja/iiif/006610/manifest.json",
+    "@type": "sc:Manifest",
+    "attribution": "酉蓮社 / Urenja",
+    "label": "006610",
+    "metadata": [
+        {
+            "label": "分類(1)",
+            "value": "此土著述"
+        },
+        {
+            "label": "分類(2)",
+            "value": ""
+        },
+        {
+            "label": "分類(3)",
+            "value": ""
+        },
+        {
+            "label": "連",
+            "value": "4"
+        },
+        {
+            "label": "箱",
+            "value": "054"
+        },
+        {
+            "label": "段",
+            "value": "2"
+        },
+        {
+            "label": "冊",
+            "value": "01"
+        },
+        {
+            "label": "闕",
+            "value": ""
+        },
+        {
+            "label": "函册次",
+            "value": "161-01"
+        },
+        {
+            "label": "表紙の函次(書入)",
+            "value": ""
+        },
+        {
+            "label": "表紙等(備考)",
+            "value": ""
+        },
+        {
+            "label": "函(種別通番)",
+            "value": "正161"
+        },
+        {
+            "label": "函(通番)",
+            "value": "161"
+        },
+        {
+            "label": "經番",
+            "value": "U1501"
+        },
+        {
+            "label": "通番",
+            "value": "1514"
+        },
+        {
+            "label": "枝番",
+            "value": "1"
+        },
+        {
+            "label": "寸法(1)",
+            "value": "21.9"
+        },
+        {
+            "label": "寸法(2)",
+            "value": "14.2"
+        },
+        {
+            "label": "計測箇所(1)",
+            "value": ""
+        },
+        {
+            "label": "計測箇所(2)",
+            "value": "9b"
+        },
+        {
+            "label": "題簽",
+            "value": ""
+        },
+        {
+            "label": "題簽(備考)",
+            "value": ""
+        },
+        {
+            "label": "千字文",
+            "value": "桓10"
+        },
+        {
+            "label": "千字文(備考)",
+            "value": "版心千字文「桓十」"
+        },
+        {
+            "label": "經典名稱",
+            "value": "護命放生軌儀法"
+        },
+        {
+            "label": "經典名稱（備考）",
+            "value": ""
+        },
+        {
+            "label": "卷次等",
+            "value": ""
+        },
+        {
+            "label": "卷次等(根拠)",
+            "value": ""
+        },
+        {
+            "label": "卷次等(備考2)",
+            "value": ""
+        },
+        {
+            "label": "卷次(譯著者)",
+            "value": ""
+        },
+        {
+            "label": "丁數",
+            "value": "9b-11b"
+        },
+        {
+            "label": "丁數(備考)",
+            "value": ""
+        },
+        {
+            "label": "本文(備考)",
+            "value": ""
+        },
+        {
+            "label": "本文(書入等）",
+            "value": ""
+        },
+        {
+            "label": "匡郭の形状(異版のみ)",
+            "value": ""
+        },
+        {
+            "label": "界線・行款(異版のみ)",
+            "value": ""
+        },
+        {
+            "label": "版心(異版のみ)",
+            "value": ""
+        },
+        {
+            "label": "版心(補刻記等)",
+            "value": ""
+        },
+        {
+            "label": "版心(備考)",
+            "value": ""
+        },
+        {
+            "label": "附點・首書・科文等",
+            "value": ""
+        },
+        {
+            "label": "卷末附録_facet",
+            "value": [
+                "音釋"
+            ]
+        },
+        {
+            "label": "卷末附録(1)",
+            "value": "音釋"
+        },
+        {
+            "label": "卷末附録(2)",
+            "value": ""
+        },
+        {
+            "label": "卷末附録(3)",
+            "value": ""
+        },
+        {
+            "label": "卷末附録(4)",
+            "value": ""
+        },
+        {
+            "label": "卷末附録(備考)",
+            "value": ""
+        },
+        {
+            "label": "刊記",
+            "value": "順治8年刊"
+        },
+        {
+            "label": "刊記(西暦年)",
+            "value": "1651"
+        },
+        {
+            "label": "刊記(備考)",
+            "value": ""
+        },
+        {
+            "label": "卷末墨丁",
+            "value": ""
+        },
+        {
+            "label": "卷末墨丁(所在)",
+            "value": ""
+        },
+        {
+            "label": "圖像",
+            "value": ""
+        },
+        {
+            "label": "圖像(所在)",
+            "value": ""
+        },
+        {
+            "label": "圖像(圖柄)",
+            "value": ""
+        },
+        {
+            "label": "圖像(丁裏)",
+            "value": ""
+        },
+        {
+            "label": "圖像(備考)",
+            "value": ""
+        },
+        {
+            "label": "印記",
+            "value": "「雅山／之章」印"
+        },
+        {
+            "label": "印記(備考)",
+            "value": ""
+        }
+    ]
+}

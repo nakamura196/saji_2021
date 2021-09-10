@@ -1,0 +1,243 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://static.toyobunko-lab.jp/u-renja/iiif/005283/manifest.json",
+    "@type": "sc:Manifest",
+    "attribution": "酉蓮社 / Urenja",
+    "label": "005283",
+    "metadata": [
+        {
+            "label": "分類(1)",
+            "value": "論"
+        },
+        {
+            "label": "分類(2)",
+            "value": "小乘論"
+        },
+        {
+            "label": "分類(3)",
+            "value": ""
+        },
+        {
+            "label": "連",
+            "value": "3"
+        },
+        {
+            "label": "箱",
+            "value": "041"
+        },
+        {
+            "label": "段",
+            "value": "3"
+        },
+        {
+            "label": "冊",
+            "value": "06"
+        },
+        {
+            "label": "闕",
+            "value": ""
+        },
+        {
+            "label": "函册次",
+            "value": "123-06"
+        },
+        {
+            "label": "表紙の函次(書入)",
+            "value": ""
+        },
+        {
+            "label": "表紙等(備考)",
+            "value": ""
+        },
+        {
+            "label": "函(種別通番)",
+            "value": "正123"
+        },
+        {
+            "label": "函(通番)",
+            "value": "123"
+        },
+        {
+            "label": "經番",
+            "value": "U1260"
+        },
+        {
+            "label": "通番",
+            "value": "1273"
+        },
+        {
+            "label": "枝番",
+            "value": "30"
+        },
+        {
+            "label": "寸法(1)",
+            "value": ""
+        },
+        {
+            "label": "寸法(2)",
+            "value": ""
+        },
+        {
+            "label": "計測箇所(1)",
+            "value": ""
+        },
+        {
+            "label": "計測箇所(2)",
+            "value": ""
+        },
+        {
+            "label": "題簽",
+            "value": ""
+        },
+        {
+            "label": "題簽(備考)",
+            "value": ""
+        },
+        {
+            "label": "千字文",
+            "value": "飛10"
+        },
+        {
+            "label": "千字文(備考)",
+            "value": "版心千字文「飛十」"
+        },
+        {
+            "label": "經典名稱",
+            "value": "阿毘達磨倶舍論"
+        },
+        {
+            "label": "經典名稱（備考）",
+            "value": ""
+        },
+        {
+            "label": "卷次等",
+            "value": "30"
+        },
+        {
+            "label": "卷次等(根拠)",
+            "value": ""
+        },
+        {
+            "label": "卷次等(備考2)",
+            "value": ""
+        },
+        {
+            "label": "卷次(譯著者)",
+            "value": ""
+        },
+        {
+            "label": "丁數",
+            "value": "1-16a"
+        },
+        {
+            "label": "丁數(備考)",
+            "value": ""
+        },
+        {
+            "label": "本文(備考)",
+            "value": ""
+        },
+        {
+            "label": "本文(書入等）",
+            "value": ""
+        },
+        {
+            "label": "匡郭の形状(異版のみ)",
+            "value": ""
+        },
+        {
+            "label": "界線・行款(異版のみ)",
+            "value": ""
+        },
+        {
+            "label": "版心(異版のみ)",
+            "value": ""
+        },
+        {
+            "label": "版心(補刻記等)",
+            "value": ""
+        },
+        {
+            "label": "版心(備考)",
+            "value": ""
+        },
+        {
+            "label": "附點・首書・科文等",
+            "value": ""
+        },
+        {
+            "label": "卷末附録_facet",
+            "value": [
+                "音釋"
+            ]
+        },
+        {
+            "label": "卷末附録(1)",
+            "value": "音釋"
+        },
+        {
+            "label": "卷末附録(2)",
+            "value": ""
+        },
+        {
+            "label": "卷末附録(3)",
+            "value": ""
+        },
+        {
+            "label": "卷末附録(4)",
+            "value": ""
+        },
+        {
+            "label": "卷末附録(備考)",
+            "value": ""
+        },
+        {
+            "label": "刊記",
+            "value": ""
+        },
+        {
+            "label": "刊記(西暦年)",
+            "value": ""
+        },
+        {
+            "label": "刊記(備考)",
+            "value": ""
+        },
+        {
+            "label": "卷末墨丁",
+            "value": ""
+        },
+        {
+            "label": "卷末墨丁(所在)",
+            "value": ""
+        },
+        {
+            "label": "圖像",
+            "value": ""
+        },
+        {
+            "label": "圖像(所在)",
+            "value": ""
+        },
+        {
+            "label": "圖像(圖柄)",
+            "value": ""
+        },
+        {
+            "label": "圖像(丁裏)",
+            "value": ""
+        },
+        {
+            "label": "圖像(備考)",
+            "value": ""
+        },
+        {
+            "label": "印記",
+            "value": "「增上寺／報恩藏」印, 「雅山／之章」印（2ヶ）"
+        },
+        {
+            "label": "印記(備考)",
+            "value": "16abに「雅山／之章」印あり"
+        }
+    ]
+}
